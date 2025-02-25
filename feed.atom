@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T06:18:42.567Z</id>
+    <id>urn:2025-02-25T06:18:02.460Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-24T06:18:42.567Z</updated>
+    <updated>2025-02-25T06:18:02.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @camiinthisthang Be sure to post the pics when you hug the OG D_D NFT holders❤️‍🔥]]></title>
+        <id>https://twitter.com/developer_dao/status/1894120396841980153</id>
+        <link href="https://x.com/developer_dao/status/1894120396841980153"/>
+        <updated>2025-02-24T20:21:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @camiinthisthang Be sure to post the pics when you hug the OG D_D NFT holders❤️‍🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re On Feb 28th we'll be joined by @OnlyOneJMJQ & @dipesh_sukhani from @_BuildBear In this episode we'll see Josh and Dipesh discuss automated testing,...]]></title>
+        <id>https://twitter.com/developer_dao/status/1894009419543015548</id>
+        <link href="https://x.com/developer_dao/status/1894009419543015548"/>
+        <updated>2025-02-24T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re On Feb 28th we'll be joined by @OnlyOneJMJQ & @dipesh_sukhani from @_BuildBear
+In this episode we'll see Josh and Dipesh discuss automated testing, security best practices, and how BuildBear is able to help streamline the process 🔥
+RSVP Today: https://lu.ma/le6jt46r]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re On Feb 26th we'll be joined by @jaycoolh from Hedera @hashgraph In this episode we'll see Jake give us an enthusiastic talk focusing on Hedera, wha...]]></title>
+        <id>https://twitter.com/developer_dao/status/1894009407538893065</id>
+        <link href="https://x.com/developer_dao/status/1894009407538893065"/>
+        <updated>2025-02-24T13:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re On Feb 26th we'll be joined by @jaycoolh from Hedera @hashgraph
+In this episode we'll see Jake give us an enthusiastic talk focusing on Hedera, what sets them apart, projects that are building on Hedera and AI x Blockchain!
+RSVP Today: https://lu.ma/e4gcejxp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ Get ready for some major learning on @devntellxyz this week We have not one, but two excellent episodes lined up for you this week helping you ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1894009394729509023</id>
+        <link href="https://x.com/developer_dao/status/1894009394729509023"/>
+        <updated>2025-02-24T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[🎙️ Get ready for some major learning on @devntellxyz this week
+We have not one, but two excellent episodes lined up for you this week helping you learn about @hedera and automated security testing for web3 with @_BuildBear 🔥
+Check out the thread below for the details👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 New DJ set incoming for the #HederaCon After Party Feb 25th🚨 Who could it be?!? 👀 We'll reveal who the new addition is tomorrow🔮 Tag who...]]></title>
         <id>https://twitter.com/developer_dao/status/1893846477992239121</id>
@@ -56,6 +102,16 @@ If you missed all the action on @devntellxyz this week, read on below for a reca
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevNTell - Learn about Oracles with @API3DAO | Guest: @billyjitsu_ | Host: @narb_s https://x.com/i/broadcasts/1OdKrDlElqwJX]]></title>
+        <id>https://twitter.com/developer_dao/status/1892975598798360783</id>
+        <link href="https://x.com/developer_dao/status/1892975598798360783"/>
+        <updated>2025-02-21T16:32:07.000Z</updated>
+        <summary type="html"><![CDATA[DevNTell - Learn about Oracles with @API3DAO | Guest: @billyjitsu_ | Host: @narb_s https://x.com/i/broadcasts/1OdKrDlElqwJX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT APAC DAO: Official Announcement: US-ASIA COMMUNITY DAY at ETH DENVER 2025 APAC DAO & @lukso_io are excited to co-host the largest US-Asia Web3 gath...]]></title>
         <id>https://twitter.com/developer_dao/status/1893548431974514861</id>
         <link href="https://x.com/developer_dao/status/1893548431974514861"/>
@@ -83,11 +139,11 @@ We can’t wait to welcome you to ETH Denver’s premier international Web3 gath
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT krystal ✈️ ETHDenver: excited to announce i’ll be speaking at the #HederaCon swag booth stage come get your swag and listen to me yap about our ...]]></title>
+        <title type="html"><![CDATA[RT krystal 📍 ETHDenver: excited to announce i’ll be speaking at the #HederaCon swag booth stage come get your swag and listen to me yap about our ...]]></title>
         <id>https://twitter.com/developer_dao/status/1892646517044867418</id>
         <link href="https://x.com/developer_dao/status/1892646517044867418"/>
         <updated>2025-02-20T17:54:50.000Z</updated>
-        <summary type="html"><![CDATA[RT krystal ✈️ ETHDenver
+        <summary type="html"><![CDATA[RT krystal 📍 ETHDenver
 excited to announce i’ll be speaking at the #HederaCon swag booth stage 
 come get your swag and listen to me yap about our evm-compatible swag]]></summary>
         <author>
@@ -199,71 +255,6 @@ RSVP using the link in the post below]]></summary>
         <summary type="html"><![CDATA[RT meowy
 This is @wslyvh appreciation post! 🫡
 Thank you for creating @useWeb3 , one of my go to resources to find any specific resources and also to understand how to contribute to these amazing web3 open-source projects. ✨]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: 💘 Need some Valentine's Day Inspiration? 👉 Why not cuddle up and watch some of your favourite episodes of DevNTell together? Watch ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1890440854810030088</id>
-        <link href="https://x.com/developer_dao/status/1890440854810030088"/>
-        <updated>2025-02-14T16:37:43.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-💘 Need some Valentine's Day Inspiration?
-👉 Why not cuddle up and watch some of your favourite episodes of DevNTell together? Watch wherever you get your podcasts:
-YouTube: https://devdao.to/youtube
-Spotify: https://devdao.to/dvt-spotify
-Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Billyjitsu ⟁: “May you fall in love with your code today” ~Billyjitsu~]]></title>
-        <id>https://twitter.com/developer_dao/status/1890480097980805487</id>
-        <link href="https://x.com/developer_dao/status/1890480097980805487"/>
-        <updated>2025-02-14T16:26:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Billyjitsu ⟁
-“May you fall in love with your code today”
-~Billyjitsu~]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👉 Get ready for #HederaCon 2025 📆 Feb 25th, 2025 📍 Denver, CO ℹ️ HederaCon, @Hedera's first major user conference since 2018, unites the co...]]></title>
-        <id>https://twitter.com/developer_dao/status/1890143498181177431</id>
-        <link href="https://x.com/developer_dao/status/1890143498181177431"/>
-        <updated>2025-02-13T20:58:21.000Z</updated>
-        <summary type="html"><![CDATA[👉 Get ready for #HederaCon 2025
-📆 Feb 25th, 2025
-📍 Denver, CO
-ℹ️ HederaCon, @Hedera's first major user conference since 2018, unites the community, developers, business leaders, & industry pioneers.
-Register here: https://hederacon.hedera.com/
-Attendees gain** FREE entrance to @karatecombat's event on Feb 28 🥋]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hedera https://lu.ma/sj923vbn]]></title>
-        <id>https://twitter.com/developer_dao/status/1889773112373481864</id>
-        <link href="https://x.com/developer_dao/status/1889773112373481864"/>
-        <updated>2025-02-12T20:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @hedera https://lu.ma/sj923vbn]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🪩 BUIDL. RAVE. VIBE. REPEAT. with Hedera & D_D at ETHDenver! ℹ️ Join us Feb 25th for the #HederaCon After Party for food, drinks, and music from ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1889773099941532158</id>
-        <link href="https://x.com/developer_dao/status/1889773099941532158"/>
-        <updated>2025-02-12T20:26:31.000Z</updated>
-        <summary type="html"><![CDATA[🪩 BUIDL. RAVE. VIBE. REPEAT. with Hedera & D_D at ETHDenver!
-ℹ️ Join us Feb 25th for the #HederaCon After Party for food, drinks, and music from @Wuki @billyjitsu_ @kempsterrrr @notannelisa & possibly a secret guest DJ 👀🎧🎵
-#HederaxDeveloperDAO
-RSVP with the link below👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
