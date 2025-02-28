@@ -211,16 +211,6 @@
           "wordCount": null,
           "title": "AI Agent Demo Days Episode 5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=25FxjscBHuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=25FxjscBHuo",
-          "publishedOn": "2025-01-29T07:02:45.000Z",
-          "wordCount": null,
-          "title": "How to Build a Custom Eliza AI Agent Plugin in 35 minutes | TypeScript Full Tutorial",
-          "imageUrl": null
         }
       ]
     }
