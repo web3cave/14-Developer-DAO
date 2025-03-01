@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T06:17:53.447Z</id>
+    <id>urn:2025-03-01T06:17:09.573Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-28T06:17:53.447Z</updated>
+    <updated>2025-03-01T06:17:09.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,6 +25,16 @@ Day 3 of Lilypad Builder Week!
 Introducing Anura: Lilypad’s AI Inference API!
 Anura provides simple, powerful API access to AI models like DeepSeek R1 7B, Llama 2 7B, all running on Lilypad and more coming soon!
 Here’s what you can do with it 🔽]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Getting Started with @hedera | Guest: @jaycoolh | Host: @narb_s https://x.com/i/broadcasts/1vAGRDovPQaxl]]></title>
+        <id>https://twitter.com/developer_dao/status/1894787161909797136</id>
+        <link href="https://x.com/developer_dao/status/1894787161909797136"/>
+        <updated>2025-02-26T16:30:37.000Z</updated>
+        <summary type="html"><![CDATA[DevNTell - Getting Started with @hedera | Guest: @jaycoolh | Host: @narb_s https://x.com/i/broadcasts/1vAGRDovPQaxl]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
