@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-01T06:17:09.573Z</id>
+    <id>urn:2025-03-02T06:17:05.109Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-01T06:17:09.573Z</updated>
+    <updated>2025-03-02T06:17:05.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT krystal 📍 ETHDenver: hedera rap service: spit bars, not fees]]></title>
+        <id>https://twitter.com/developer_dao/status/1896002824343077140</id>
+        <link href="https://x.com/developer_dao/status/1896002824343077140"/>
+        <updated>2025-03-02T00:25:50.000Z</updated>
+        <summary type="html"><![CDATA[RT krystal 📍 ETHDenver
+hedera rap service: spit bars, not fees]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re You can also watch either (or any other) episode where ever you catch your podcasts: YouTube: https://devdao.to/youtube Spotify: https://devdao.to/...]]></title>
+        <id>https://twitter.com/developer_dao/status/1895791171093610660</id>
+        <link href="https://x.com/developer_dao/status/1895791171093610660"/>
+        <updated>2025-03-01T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Re You can also watch either (or any other) episode where ever you catch your podcasts:
+YouTube: https://devdao.to/youtube
+Spotify: https://devdao.to/dvt-spotify
+Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ℹ️ On February 28th we were joined by @OnlyOneJMJQ & @dipesh_sukhani from @_BuildBear Josh and Dipesh gave us an overview of automated testing, s...]]></title>
+        <id>https://twitter.com/developer_dao/status/1895791159005585846</id>
+        <link href="https://x.com/developer_dao/status/1895791159005585846"/>
+        <updated>2025-03-01T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re ℹ️ On February 28th we were joined by @OnlyOneJMJQ & @dipesh_sukhani from @_BuildBear
+Josh and Dipesh gave us an overview of automated testing, security best practices, and an overview of BuildBear 🔥
+📹 If you missed us live, watch the episode now:
+https://www.youtube.com/watch?v=yN86xmxj02E]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📖 Recapping another wonderful week of learning on DevNTell 📖 If you missed all the action on @devntellxyz this week, read on below for a recap o...]]></title>
+        <id>https://twitter.com/developer_dao/status/1895791134225678758</id>
+        <link href="https://x.com/developer_dao/status/1895791134225678758"/>
+        <updated>2025-03-01T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[📖 Recapping another wonderful week of learning on DevNTell 📖
+If you missed all the action on @devntellxyz this week, read on below for a recap of what happened 🧵 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @playonshaga Congrats to @DaeshawnBallard and the @playonshaga team 🔥🎮]]></title>
         <id>https://twitter.com/developer_dao/status/1894877043721953605</id>
@@ -185,16 +233,6 @@ If you missed all the action on @devntellxyz this week, read on below for a reca
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevNTell - Learn about Oracles with @API3DAO | Guest: @billyjitsu_ | Host: @narb_s https://x.com/i/broadcasts/1OdKrDlElqwJX]]></title>
-        <id>https://twitter.com/developer_dao/status/1892975598798360783</id>
-        <link href="https://x.com/developer_dao/status/1892975598798360783"/>
-        <updated>2025-02-21T16:32:07.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - Learn about Oracles with @API3DAO | Guest: @billyjitsu_ | Host: @narb_s https://x.com/i/broadcasts/1OdKrDlElqwJX]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT APAC DAO: Official Announcement: US-ASIA COMMUNITY DAY at ETH DENVER 2025 APAC DAO & @lukso_io are excited to co-host the largest US-Asia Web3 gath...]]></title>
         <id>https://twitter.com/developer_dao/status/1893548431974514861</id>
         <link href="https://x.com/developer_dao/status/1893548431974514861"/>
@@ -217,40 +255,6 @@ Agenda Highlights:
 - Open Networking – Forge meaningful connections with Web3 leaders
 📌 Secure your spot now! Limited capacity, register today: https://lu.ma/ulm5bpeb
 We can’t wait to welcome you to ETH Denver’s premier international Web3 gathering! See you there!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT krystal 📍 ETHDenver: excited to announce i’ll be speaking at the #HederaCon swag booth stage come get your swag and listen to me yap about our ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1892646517044867418</id>
-        <link href="https://x.com/developer_dao/status/1892646517044867418"/>
-        <updated>2025-02-20T17:54:50.000Z</updated>
-        <summary type="html"><![CDATA[RT krystal 📍 ETHDenver
-excited to announce i’ll be speaking at the #HederaCon swag booth stage 
-come get your swag and listen to me yap about our evm-compatible swag]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://lu.ma/i2xikt33]]></title>
-        <id>https://twitter.com/developer_dao/status/1892559856030351661</id>
-        <link href="https://x.com/developer_dao/status/1892559856030351661"/>
-        <updated>2025-02-20T13:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Re https://lu.ma/i2xikt33]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👉 Are you ready to learn about @API3DAO? Tomorrow we'll be joined by D_D legend @billyjitsu_ who'll be giving us an overview of oracles and telling...]]></title>
-        <id>https://twitter.com/developer_dao/status/1892559843413889119</id>
-        <link href="https://x.com/developer_dao/status/1892559843413889119"/>
-        <updated>2025-02-20T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[👉 Are you ready to learn about @API3DAO?
-Tomorrow we'll be joined by D_D legend @billyjitsu_ who'll be giving us an overview of oracles and telling us how API3 changed the game 🧠
-Check out the post below to RSVP👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
