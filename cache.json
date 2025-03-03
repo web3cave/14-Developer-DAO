@@ -211,18 +211,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=RCz6aoBhoVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RCz6aoBhoVs",
-          "publishedOn": "2025-02-01T05:22:07.000Z",
-          "wordCount": null,
-          "title": "AI Agent Demo Days Episode 5",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
