@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T06:18:36.954Z</id>
+    <id>urn:2025-03-12T06:18:28.113Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-11T06:18:36.954Z</updated>
+    <updated>2025-03-12T06:18:28.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @devntellxyz @JoshCStein @Apple @Toyota 👀👀👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1899677838149640458</id>
+        <link href="https://x.com/developer_dao/status/1899677838149640458"/>
+        <updated>2025-03-12T04:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @devntellxyz @JoshCStein @Apple @Toyota 👀👀👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: Remembering @developer_dao in 2021-2022]]></title>
+        <id>https://twitter.com/developer_dao/status/1899638635302961641</id>
+        <link href="https://x.com/developer_dao/status/1899638635302961641"/>
+        <updated>2025-03-11T18:08:54.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+Remembering @developer_dao in 2021-2022]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DappaDan: What was your first piece of crypto swag?]]></title>
+        <id>https://twitter.com/developer_dao/status/1899638412019187974</id>
+        <link href="https://x.com/developer_dao/status/1899638412019187974"/>
+        <updated>2025-03-11T17:16:03.000Z</updated>
+        <summary type="html"><![CDATA[RT DappaDan
+What was your first piece of crypto swag?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode: YouTube: https://devdao.to/you...]]></title>
+        <id>https://twitter.com/developer_dao/status/1899400209161212213</id>
+        <link href="https://x.com/developer_dao/status/1899400209161212213"/>
+        <updated>2025-03-11T10:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode:
+YouTube: https://devdao.to/youtube
+Spotify: https://devdao.to/dvt-spotify
+Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ Have you heard about the @fuel_network VM? Hear Fuel solutions engineer @naz3eh explain what the Fuel VM is and how it differs from the EVM whe...]]></title>
+        <id>https://twitter.com/developer_dao/status/1899400195701669968</id>
+        <link href="https://x.com/developer_dao/status/1899400195701669968"/>
+        <updated>2025-03-11T10:01:10.000Z</updated>
+        <summary type="html"><![CDATA[🎙️ Have you heard about the @fuel_network VM?
+Hear Fuel solutions engineer @naz3eh explain what the Fuel VM is and how it differs from the EVM when he joined the @devntellxyz podcast last week ⛽]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode: YouTube: https://devdao.to/you...]]></title>
         <id>https://twitter.com/developer_dao/status/1899173527611396446</id>
@@ -200,92 +256,6 @@ Learn from @weeb3dev, DevRel at @kolwaii
         <link href="https://x.com/developer_dao/status/1897323938545590727"/>
         <updated>2025-03-05T16:30:52.000Z</updated>
         <summary type="html"><![CDATA[DevNTell - Getting Started with @movementlabsxyz | Guest: @Rahatcodes | Host: @narb_s https://x.com/i/broadcasts/1gqxvjmejNaxB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode: YouTube: https://devdao.to/you...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896893511385145804</id>
-        <link href="https://x.com/developer_dao/status/1896893511385145804"/>
-        <updated>2025-03-04T12:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode:
-YouTube: https://devdao.to/youtube
-Spotify: https://devdao.to/dvt-spotify
-Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ Improve your Web3 testing game with @_BuildBear 🔥 Last week on @devntellxyz we were joined by @OnlyOneJMJQ & @dipesh_sukhani of BuildBear wh...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896893499251085366</id>
-        <link href="https://x.com/developer_dao/status/1896893499251085366"/>
-        <updated>2025-03-04T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[🎙️ Improve your Web3 testing game with @_BuildBear 🔥
-Last week on @devntellxyz we were joined by @OnlyOneJMJQ & @dipesh_sukhani of BuildBear who gave us a great talk around automated security testing in Web3.  In this clip below, Josh gives us an overview of BuildBear Sandboxes]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode: YouTube: https://devdao.to/you...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896651984515784878</id>
-        <link href="https://x.com/developer_dao/status/1896651984515784878"/>
-        <updated>2025-03-03T20:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Re Watch the full episode of @devntellxyz on your favourite platform and be sure to subscribe to never miss an episode:
-YouTube: https://devdao.to/youtube
-Spotify: https://devdao.to/dvt-spotify
-Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ Have you heard about the @hedera AI Agent Kit? Last week on @devntellxyz we were joined by @hashgraph DevRel @jaycoolh who gave us the low down...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896651972171948079</id>
-        <link href="https://x.com/developer_dao/status/1896651972171948079"/>
-        <updated>2025-03-03T20:00:42.000Z</updated>
-        <summary type="html"><![CDATA[🎙️ Have you heard about the @hedera AI Agent Kit?
-Last week on @devntellxyz we were joined by @hashgraph DevRel @jaycoolh who gave us the low down on all things AI on Hedera including their AI Agent Kit 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 🎙️ DevNTell - Getting started with @fuel_network 📆 On Mar 7th we'll be joined by @naz3eh from Fuel Network 💫 ℹ️ Nazeeh will give us an ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896531033329455220</id>
-        <link href="https://x.com/developer_dao/status/1896531033329455220"/>
-        <updated>2025-03-03T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 🎙️ DevNTell - Getting started with @fuel_network
-📆 On Mar 7th we'll be joined by @naz3eh from Fuel Network 💫
-ℹ️ Nazeeh will give us an overview of Fuel and how to get started building on Fuel Ignition 🔥
-RSVP today: https://lu.ma/7zcb7ay3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rahatcodes 🎙️ DevNTell - Getting started with @movementlabsxyz 📆 On Mar 5th we'll be joined by @Rahatcodes from Movement 💫 ℹ️ Rahat wi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896531021388272048</id>
-        <link href="https://x.com/developer_dao/status/1896531021388272048"/>
-        <updated>2025-03-03T12:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rahatcodes 🎙️ DevNTell - Getting started with @movementlabsxyz
-📆 On Mar 5th we'll be joined by @Rahatcodes from Movement 💫
-ℹ️ Rahat will give us an overview of Movement and take us through how you can get started building with it today!
-RSVP today: https://lu.ma/3kk6lt8d]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ Get ready for another double header on @devntellxyz this week This week we welcome two D_D legends onto the show who'll showcase some of the ho...]]></title>
-        <id>https://twitter.com/developer_dao/status/1896531008574599299</id>
-        <link href="https://x.com/developer_dao/status/1896531008574599299"/>
-        <updated>2025-03-03T12:00:02.000Z</updated>
-        <summary type="html"><![CDATA[🎙️ Get ready for another double header on @devntellxyz this week
-This week we welcome two D_D legends onto the show who'll showcase some of the hottest protocol's in web3 today in @movementlabsxyz and @fuel_network🔥
-Check out the thread below for the details👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
