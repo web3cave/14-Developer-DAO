@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-14T06:18:28.739Z</id>
+    <id>urn:2025-03-15T06:16:40.106Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-14T06:18:28.739Z</updated>
+    <updated>2025-03-15T06:16:40.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @devntellxyz https://lu.ma/23isijue]]></title>
-        <id>https://twitter.com/developer_dao/status/1900154905400402274</id>
-        <link href="https://x.com/developer_dao/status/1900154905400402274"/>
-        <updated>2025-03-13T12:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @devntellxyz https://lu.ma/23isijue]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👉 Are you ready to learn about @linera_io ? Tomorrow we'll be joined by Founder @ma2bd who'll explain the origins of Linera blockchain, why it's di...]]></title>
-        <id>https://twitter.com/developer_dao/status/1900154892360310998</id>
-        <link href="https://x.com/developer_dao/status/1900154892360310998"/>
-        <updated>2025-03-13T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[👉 Are you ready to learn about @linera_io ?
-Tomorrow we'll be joined by Founder @ma2bd who'll explain the origins of Linera blockchain, why it's different, and how it could unlock real-time Web3 applications for the next billion of users 🔥
-Check out the post below to RSVP👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @devntellxyz @JoshCStein @Apple @Toyota 👀👀👀]]></title>
         <id>https://twitter.com/developer_dao/status/1899677838149640458</id>
@@ -254,6 +232,30 @@ With $100,000 in rewards + opportunity for future incubation & seed funding, thi
 ☕️ Get rewarded for your work - all deployed rollups qualify for a share of the prize pool
 ☕️ Compete for over US$100,000+ in prizes!
 Register here before March 10: https://dorahacks.io/hackathon/build-and-brew/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Press Start Capital 👉🎮: Turn your agent ideas into reality at the 👉🎮 AI Agent Ship-a-Thon! Learn from @weeb3dev, DevRel at @kolwaii �...]]></title>
+        <id>https://twitter.com/developer_dao/status/1897498485034774842</id>
+        <link href="https://x.com/developer_dao/status/1897498485034774842"/>
+        <updated>2025-03-06T04:04:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Press Start Capital 👉🎮
+Turn your agent ideas into reality at the 👉🎮 AI Agent Ship-a-Thon!
+Learn from @weeb3dev, DevRel at @kolwaii
+📆 Thursday March 6,  12pm - 1pm ET
+👉 https://lu.ma/press-start-ai-agent-ship-a-thon-session4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevNTell - Getting Started with @movementlabsxyz | Guest: @Rahatcodes | Host: @narb_s https://x.com/i/broadcasts/1gqxvjmejNaxB]]></title>
+        <id>https://twitter.com/developer_dao/status/1897323938545590727</id>
+        <link href="https://x.com/developer_dao/status/1897323938545590727"/>
+        <updated>2025-03-05T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[DevNTell - Getting Started with @movementlabsxyz | Guest: @Rahatcodes | Host: @narb_s https://x.com/i/broadcasts/1gqxvjmejNaxB]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
