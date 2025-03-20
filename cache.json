@@ -10,7 +10,18 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kXuRJXEzrE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kXuRJXEzrE0",
+          "publishedOn": "2025-03-20T00:01:52.000Z",
+          "wordCount": null,
+          "title": "Build a Real-world MCP Server with One TypeScript File | Full Tutorial",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
