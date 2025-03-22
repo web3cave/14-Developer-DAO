@@ -1,6 +1,63 @@
 {
   "sources": [
     {
+      "title": "Twitter @Developer DAO (🧱, 🚀)",
+      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
+      "siteUrl": "https://x.com/developer_dao",
+      "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1903224986820808991",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\n👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀\nI whipped up a clone using: \n• Perplexica for the UI & boilerplate\n• @searxng as the metasearch engine\n• @Lilypad_Tech’s Anura API for AI inference\n🛠️ Blog post on how to do it below👇",
+          "link": "https://x.com/developer_dao/status/1903224986820808991",
+          "publishedOn": "2025-03-21T22:46:14.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: 👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀 I whipped up a clone using: • P...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1902049444067151917",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby\nLilypad browser extension coming soon? 👀 @Lilypad_Tech\nHow did it go summarizing the @developer_dao website?",
+          "link": "https://x.com/developer_dao/status/1902049444067151917",
+          "publishedOn": "2025-03-18T16:43:46.000Z",
+          "wordCount": null,
+          "title": "RT pbillingsby: Lilypad browser extension coming soon? 👀 @Lilypad_Tech How did it go summarizing the @developer_dao website?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1900570152011518238",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "DevNTell - Beyond Bottlenecks: @ma2bd on the Next Era of Blockchain with @linera_io | Host : @narb_s https://x.com/i/broadcasts/1ynKOlnAvDOGR",
+          "link": "https://x.com/developer_dao/status/1900570152011518238",
+          "publishedOn": "2025-03-14T15:30:09.000Z",
+          "wordCount": null,
+          "title": "DevNTell - Beyond Bottlenecks: @ma2bd on the Next Era of Blockchain with @linera_io | Host : @narb_s https://x.com/i/broadcasts/1ynKOlnAvDOGR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1899638635302961641",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby\nRemembering @developer_dao in 2021-2022",
+          "link": "https://x.com/developer_dao/status/1899638635302961641",
+          "publishedOn": "2025-03-11T18:08:54.000Z",
+          "wordCount": null,
+          "title": "RT pbillingsby: Remembering @developer_dao in 2021-2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1899638412019187974",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DappaDan\nWhat was your first piece of crypto swag?",
+          "link": "https://x.com/developer_dao/status/1899638412019187974",
+          "publishedOn": "2025-03-11T17:16:03.000Z",
+          "wordCount": null,
+          "title": "RT DappaDan: What was your first piece of crypto swag?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
