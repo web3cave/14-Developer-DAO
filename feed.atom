@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-22T06:16:52.600Z</id>
+    <id>urn:2025-03-23T06:17:01.225Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-22T06:16:52.600Z</updated>
+    <updated>2025-03-23T06:17:01.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: 👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀 I whipped up a clone using: • P...]]></title>
-        <id>https://twitter.com/developer_dao/status/1903224986820808991</id>
-        <link href="https://x.com/developer_dao/status/1903224986820808991"/>
-        <updated>2025-03-21T22:46:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀
-I whipped up a clone using: 
-• Perplexica for the UI & boilerplate
-• @searxng as the metasearch engine
-• @Lilypad_Tech’s Anura API for AI inference
-🛠️ Blog post on how to do it below👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Real-world MCP Server with One TypeScript File | Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=kXuRJXEzrE0</id>
@@ -28,50 +12,6 @@ I whipped up a clone using:
         <updated>2025-03-20T00:01:52.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: Lilypad browser extension coming soon? 👀 @Lilypad_Tech How did it go summarizing the @developer_dao website?]]></title>
-        <id>https://twitter.com/developer_dao/status/1902049444067151917</id>
-        <link href="https://x.com/developer_dao/status/1902049444067151917"/>
-        <updated>2025-03-18T16:43:46.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-Lilypad browser extension coming soon? 👀 @Lilypad_Tech
-How did it go summarizing the @developer_dao website?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Beyond Bottlenecks: @ma2bd on the Next Era of Blockchain with @linera_io | Host : @narb_s https://x.com/i/broadcasts/1ynKOlnAvDOGR]]></title>
-        <id>https://twitter.com/developer_dao/status/1900570152011518238</id>
-        <link href="https://x.com/developer_dao/status/1900570152011518238"/>
-        <updated>2025-03-14T15:30:09.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - Beyond Bottlenecks: @ma2bd on the Next Era of Blockchain with @linera_io | Host : @narb_s https://x.com/i/broadcasts/1ynKOlnAvDOGR]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: Remembering @developer_dao in 2021-2022]]></title>
-        <id>https://twitter.com/developer_dao/status/1899638635302961641</id>
-        <link href="https://x.com/developer_dao/status/1899638635302961641"/>
-        <updated>2025-03-11T18:08:54.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-Remembering @developer_dao in 2021-2022]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DappaDan: What was your first piece of crypto swag?]]></title>
-        <id>https://twitter.com/developer_dao/status/1899638412019187974</id>
-        <link href="https://x.com/developer_dao/status/1899638412019187974"/>
-        <updated>2025-03-11T17:16:03.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan
-What was your first piece of crypto swag?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
 </feed>
