@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T06:19:54.569Z</id>
+    <id>urn:2025-04-01T06:19:49.142Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-31T06:19:54.569Z</updated>
+    <updated>2025-04-01T06:19:49.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: 🚨New Tutorial Alert! Build an AI Agent to help solve the crypto UX problem—powered entirely by open source: - @OpenAI Agent ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1906745972816060719</id>
+        <link href="https://x.com/developer_dao/status/1906745972816060719"/>
+        <updated>2025-03-31T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+🚨New Tutorial Alert!
+Build an AI Agent to help solve the crypto UX problem—powered entirely by open source:
+- @OpenAI Agent SDK
+- @Lilypad_Tech and @ollama for AI Inference
+- web3py and eth-account for on-chain actions
+- @coingecko for crypto price feeds
+Blog link below👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT CMT Digital: Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK co...]]></title>
+        <id>https://twitter.com/developer_dao/status/1906738834391646499</id>
+        <link href="https://x.com/developer_dao/status/1906738834391646499"/>
+        <updated>2025-03-31T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[RT CMT Digital
+Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK coprocessors.
+Big thanks to @narb_s for having us on—check out the full episode below!
+
+Developer DAO (🧱, 🚀): The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1...]]></title>
+        <id>https://twitter.com/developer_dao/status/1905643651226874314</id>
+        <link href="https://x.com/developer_dao/status/1905643651226874314"/>
+        <updated>2025-03-28T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Jamiebones: Early last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to s...]]></title>
         <id>https://twitter.com/developer_dao/status/1904767270259483053</id>
@@ -67,32 +108,6 @@ https://narb.hashnode.dev/create-a-perplexity-clone-powered-by-open-source-techn
         <summary type="html"><![CDATA[RT alec.eth 🤠
 Kicking off a new series Talent Talks at 1 PM ET. 
 Join me today with our first of many guests @CryptoClayman for a much needed address on the state of the crypto jobs market.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: 👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀 I whipped up a clone using: • P...]]></title>
-        <id>https://twitter.com/developer_dao/status/1903224986820808991</id>
-        <link href="https://x.com/developer_dao/status/1903224986820808991"/>
-        <updated>2025-03-21T22:46:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀
-I whipped up a clone using: 
-• Perplexica for the UI & boilerplate
-• @searxng as the metasearch engine
-• @Lilypad_Tech’s Anura API for AI inference
-🛠️ Blog post on how to do it below👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - AI-powered decentralized app generation with @DappThatAI | Guest: @JonnyInnovates | Host: @narb_s https://x.com/i/broadcasts/1BRKjmaYZmZxw]]></title>
-        <id>https://twitter.com/developer_dao/status/1903106823814889541</id>
-        <link href="https://x.com/developer_dao/status/1903106823814889541"/>
-        <updated>2025-03-21T15:29:59.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - AI-powered decentralized app generation with @DappThatAI | Guest: @JonnyInnovates | Host: @narb_s https://x.com/i/broadcasts/1BRKjmaYZmZxw]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

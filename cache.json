@@ -6,6 +6,36 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1906745972816060719",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\n🚨New Tutorial Alert!\nBuild an AI Agent to help solve the crypto UX problem—powered entirely by open source:\n- @OpenAI Agent SDK\n- @Lilypad_Tech and @ollama for AI Inference\n- web3py and eth-account for on-chain actions\n- @coingecko for crypto price feeds\nBlog link below👇",
+          "link": "https://x.com/developer_dao/status/1906745972816060719",
+          "publishedOn": "2025-03-31T16:01:08.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: 🚨New Tutorial Alert! Build an AI Agent to help solve the crypto UX problem—powered entirely by open source: - @OpenAI Agent ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1906738834391646499",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT CMT Digital\nLast week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK coprocessors.\nBig thanks to @narb_s for having us on—check out the full episode below!\n\nDeveloper DAO (🧱, 🚀): The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE",
+          "link": "https://x.com/developer_dao/status/1906738834391646499",
+          "publishedOn": "2025-03-31T13:52:45.000Z",
+          "wordCount": null,
+          "title": "RT CMT Digital: Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK co...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1905643651226874314",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE",
+          "link": "https://x.com/developer_dao/status/1905643651226874314",
+          "publishedOn": "2025-03-28T15:30:26.000Z",
+          "wordCount": null,
+          "title": "The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1904767270259483053",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Jamiebones\nEarly last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to speech module on Lilypad. Do check it out; a blog post is incoming. Lilypad to the 🌍 \nhttps://github.com/jamiebones/Spark-TTS-0.5B",
@@ -53,26 +83,6 @@
           "publishedOn": "2025-03-25T13:08:00.000Z",
           "wordCount": null,
           "title": "RT alec.eth 🤠: Kicking off a new series Talent Talks at 1 PM ET. Join me today with our first of many guests @CryptoClayman for a much needed addre...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1903224986820808991",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Narb | narbeh.eth\n👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀\nI whipped up a clone using: \n• Perplexica for the UI & boilerplate\n• @searxng as the metasearch engine\n• @Lilypad_Tech’s Anura API for AI inference\n🛠️ Blog post on how to do it below👇",
-          "link": "https://x.com/developer_dao/status/1903224986820808991",
-          "publishedOn": "2025-03-21T22:46:14.000Z",
-          "wordCount": null,
-          "title": "RT Narb | narbeh.eth: 👀 Want to build your own Perplexity‑style AI search — 100% open source — in minutes? 🚀 I whipped up a clone using: • P...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1903106823814889541",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "DevNTell - AI-powered decentralized app generation with @DappThatAI | Guest: @JonnyInnovates | Host: @narb_s https://x.com/i/broadcasts/1BRKjmaYZmZxw",
-          "link": "https://x.com/developer_dao/status/1903106823814889541",
-          "publishedOn": "2025-03-21T15:29:59.000Z",
-          "wordCount": null,
-          "title": "DevNTell - AI-powered decentralized app generation with @DappThatAI | Guest: @JonnyInnovates | Host: @narb_s https://x.com/i/broadcasts/1BRKjmaYZmZxw",
           "imageUrl": null
         }
       ]
