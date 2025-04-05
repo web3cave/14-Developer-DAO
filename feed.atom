@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T06:18:50.546Z</id>
+    <id>urn:2025-04-05T06:17:17.961Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-04T06:18:50.546Z</updated>
+    <updated>2025-04-05T06:17:17.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: I made this with @Lilypad_Tech 🚀 I used https://lp-sdxl-ui.vercel.app. Give it a try yourself and don't forget to share your result...]]></title>
+        <id>https://twitter.com/developer_dao/status/1908227549823688793</id>
+        <link href="https://x.com/developer_dao/status/1908227549823688793"/>
+        <updated>2025-04-04T17:42:41.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+I made this with @Lilypad_Tech 🚀
+I used https://lp-sdxl-ui.vercel.app.
+Give it a try yourself and don't forget to share your result! 🎨]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Paloma: sent my eth address to @developer_dao to get the nft I won lol]]></title>
+        <id>https://twitter.com/developer_dao/status/1908227393715920931</id>
+        <link href="https://x.com/developer_dao/status/1908227393715920931"/>
+        <updated>2025-04-04T17:08:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Paloma
+sent my eth address to @developer_dao to get the nft I won lol
+
+Ethereum.org: The first thing you ever did on ethereum was _______]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Billyjitsu ⟁: We are live. Learn to fork your own Defi dapp. The basis of this project is how we will do our liquidations and flashloans]]></title>
+        <id>https://twitter.com/developer_dao/status/1907465188804317573</id>
+        <link href="https://x.com/developer_dao/status/1907465188804317573"/>
+        <updated>2025-04-02T16:03:42.000Z</updated>
+        <summary type="html"><![CDATA[RT Billyjitsu ⟁
+We are live.  Learn to fork your own Defi dapp.  The basis of this project is how we will do our liquidations and flashloans
+
+Build with Sei: API3 WorkShop https://x.com/i/broadcasts/1ypKdZjdBqqJW]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT luke 🦣 🏳️‍🌈 🇹🇭: Use @chopinframework to add blockchain security backed by @celestia to any web app without changing how it’s buil...]]></title>
+        <id>https://twitter.com/developer_dao/status/1907465536545669320</id>
+        <link href="https://x.com/developer_dao/status/1907465536545669320"/>
+        <updated>2025-04-02T12:28:10.000Z</updated>
+        <summary type="html"><![CDATA[RT luke 🦣 🏳️‍🌈 🇹🇭
+Use @chopinframework to add blockchain security backed by @celestia to any web app without changing how it’s built.
+In the full tutorial, I walk you through how I added Chopin to a new side-project I've been cooking.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: Did you know you can run your own free, local, private version of ChatGPT using @AnythingLLM? Open Source AI is on another level...]]></title>
+        <id>https://twitter.com/developer_dao/status/1907465135326941381</id>
+        <link href="https://x.com/developer_dao/status/1907465135326941381"/>
+        <updated>2025-04-02T05:09:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+Did you know you can run your own free, local, private version of ChatGPT using @AnythingLLM?
+Open Source AI is on another level right now and you need to take advantage!
+Let me show you how you can run your own ChatGPT clone in three easy steps 🧵👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: 🚨New Tutorial Alert! Build an AI Agent to help solve the crypto UX problem—powered entirely by open source: - @OpenAI Agent ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1906745972816060719</id>
+        <link href="https://x.com/developer_dao/status/1906745972816060719"/>
+        <updated>2025-03-31T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+🚨New Tutorial Alert!
+Build an AI Agent to help solve the crypto UX problem—powered entirely by open source:
+- @OpenAI Agent SDK
+- @Lilypad_Tech and @ollama for AI Inference
+- web3py and eth-account for on-chain actions
+- @coingecko for crypto price feeds
+Blog link below👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT CMT Digital: Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK co...]]></title>
+        <id>https://twitter.com/developer_dao/status/1906738834391646499</id>
+        <link href="https://x.com/developer_dao/status/1906738834391646499"/>
+        <updated>2025-03-31T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[RT CMT Digital
+Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK coprocessors.
+Big thanks to @narb_s for having us on—check out the full episode below!
+
+Developer DAO (🧱, 🚀): The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1...]]></title>
+        <id>https://twitter.com/developer_dao/status/1905643651226874314</id>
+        <link href="https://x.com/developer_dao/status/1905643651226874314"/>
+        <updated>2025-03-28T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Real-world MCP Server with One TypeScript File | Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=kXuRJXEzrE0</id>
