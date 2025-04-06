@@ -6,6 +6,16 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1908631379224760686",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT CoinGecko\nBuild with CoinGecko 🙌\n\nNarb | narbeh.eth: 🚨New Tutorial Alert!\nBuild an AI Agent to help solve the crypto UX problem—powered entirely by open source:\n- @OpenAI Agent SDK\n- @Lilypad_Tech and @ollama for AI Inference\n- web3py and eth-account for on-chain actions\n- @coingecko for crypto price feeds\nBlog link below👇",
+          "link": "https://x.com/developer_dao/status/1908631379224760686",
+          "publishedOn": "2025-04-05T03:13:54.000Z",
+          "wordCount": null,
+          "title": "RT CoinGecko: Build with CoinGecko 🙌",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1908227549823688793",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT pbillingsby\nI made this with @Lilypad_Tech 🚀\nI used https://lp-sdxl-ui.vercel.app.\nGive it a try yourself and don't forget to share your result! 🎨",
@@ -73,16 +83,6 @@
           "publishedOn": "2025-03-31T13:52:45.000Z",
           "wordCount": null,
           "title": "RT CMT Digital: Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellxyz to dive into the future of verifiability with ZK co...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1905643651226874314",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE",
-          "link": "https://x.com/developer_dao/status/1905643651226874314",
-          "publishedOn": "2025-03-28T15:30:26.000Z",
-          "wordCount": null,
-          "title": "The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1...",
           "imageUrl": null
         }
       ]

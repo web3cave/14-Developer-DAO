@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T06:17:17.961Z</id>
+    <id>urn:2025-04-06T06:18:03.982Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-05T06:17:17.961Z</updated>
+    <updated>2025-04-06T06:18:03.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT CoinGecko: Build with CoinGecko 🙌]]></title>
+        <id>https://twitter.com/developer_dao/status/1908631379224760686</id>
+        <link href="https://x.com/developer_dao/status/1908631379224760686"/>
+        <updated>2025-04-05T03:13:54.000Z</updated>
+        <summary type="html"><![CDATA[RT CoinGecko
+Build with CoinGecko 🙌
+
+Narb | narbeh.eth: 🚨New Tutorial Alert!
+Build an AI Agent to help solve the crypto UX problem—powered entirely by open source:
+- @OpenAI Agent SDK
+- @Lilypad_Tech and @ollama for AI Inference
+- web3py and eth-account for on-chain actions
+- @coingecko for crypto price feeds
+Blog link below👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT pbillingsby: I made this with @Lilypad_Tech 🚀 I used https://lp-sdxl-ui.vercel.app. Give it a try yourself and don't forget to share your result...]]></title>
         <id>https://twitter.com/developer_dao/status/1908227549823688793</id>
@@ -96,16 +115,6 @@ Last week, our Head of Research @Aryonchain joined @developer_dao and @devntellx
 Big thanks to @narb_s for having us on—check out the full episode below!
 
 Developer DAO (🧱, 🚀): The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1...]]></title>
-        <id>https://twitter.com/developer_dao/status/1905643651226874314</id>
-        <link href="https://x.com/developer_dao/status/1905643651226874314"/>
-        <updated>2025-03-28T15:30:26.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Verifiability: Exploring ZK coprocessors | Guest: @CMT_Digital Head of Research @Aryonchain | Host: @narb_s https://x.com/i/broadcasts/1kvJpyBMyeaxE]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
