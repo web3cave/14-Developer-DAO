@@ -1,106 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-11T06:19:38.459Z</id>
+    <id>urn:2025-04-12T06:17:06.206Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-11T06:19:38.459Z</updated>
+    <updated>2025-04-12T06:17:06.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: 📢New @Lilypad_Tech Feature Alert 🌐Announcing Web Search via the Anura API Take your #AI Agent to the next level by equippi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1910532038945546429</id>
-        <link href="https://x.com/developer_dao/status/1910532038945546429"/>
-        <updated>2025-04-11T03:09:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-📢New @Lilypad_Tech Feature Alert
-🌐Announcing Web Search via the Anura API
-Take your #AI Agent to the next level by equipping it with powerful tooling to access the web. The added context will turbo charge your LLM, boosting your agentic workflow🤖
-Try it out today👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice your thoughts on our latest forum post👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1909640280728649843</id>
-        <link href="https://x.com/developer_dao/status/1909640280728649843"/>
-        <updated>2025-04-08T16:11:36.000Z</updated>
-        <summary type="html"><![CDATA[Voice your thoughts on our latest forum post👇
-
-Billyjitsu ⟁: Important discussion about the future of @developer_dao 
-Many folks have gotten their start here.  The goal is to make it great again with the lessons learned from the past.
-https://forum.developerdao.com/t/draft-a-foundation-for-the-future/3369/1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Billyjitsu ⟁: Important discussion about the future of @developer_dao Many folks have gotten their start here. The goal is to make it great again ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1909639910740668490</id>
-        <link href="https://x.com/developer_dao/status/1909639910740668490"/>
-        <updated>2025-04-08T15:11:37.000Z</updated>
-        <summary type="html"><![CDATA[RT Billyjitsu ⟁
-Important discussion about the future of @developer_dao 
-Many folks have gotten their start here.  The goal is to make it great again with the lessons learned from the past.
-https://forum.developerdao.com/t/draft-a-foundation-for-the-future/3369/1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT CoinGecko: Build with CoinGecko 🙌]]></title>
-        <id>https://twitter.com/developer_dao/status/1908631379224760686</id>
-        <link href="https://x.com/developer_dao/status/1908631379224760686"/>
-        <updated>2025-04-05T03:13:54.000Z</updated>
-        <summary type="html"><![CDATA[RT CoinGecko
-Build with CoinGecko 🙌
-
-Narb | narbeh.eth: 🚨New Tutorial Alert!
-Build an AI Agent to help solve the crypto UX problem—powered entirely by open source:
-- @OpenAI Agent SDK
-- @Lilypad_Tech and @ollama for AI Inference
-- web3py and eth-account for on-chain actions
-- @coingecko for crypto price feeds
-Blog link below👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - Introducing Developer DAO Cloud | Guest: @crypdoughdoteth | host: @narb_s https://x.com/i/broadcasts/1MYGNwNQkjwJw]]></title>
-        <id>https://twitter.com/developer_dao/status/1908217607087677649</id>
-        <link href="https://x.com/developer_dao/status/1908217607087677649"/>
-        <updated>2025-04-04T17:58:25.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - Introducing Developer DAO Cloud | Guest: @crypdoughdoteth | host: @narb_s https://x.com/i/broadcasts/1MYGNwNQkjwJw]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: I made this with @Lilypad_Tech 🚀 I used https://lp-sdxl-ui.vercel.app. Give it a try yourself and don't forget to share your result...]]></title>
-        <id>https://twitter.com/developer_dao/status/1908227549823688793</id>
-        <link href="https://x.com/developer_dao/status/1908227549823688793"/>
-        <updated>2025-04-04T17:42:41.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-I made this with @Lilypad_Tech 🚀
-I used https://lp-sdxl-ui.vercel.app.
-Give it a try yourself and don't forget to share your result! 🎨]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Paloma: sent my eth address to @developer_dao to get the nft I won lol]]></title>
-        <id>https://twitter.com/developer_dao/status/1908227393715920931</id>
-        <link href="https://x.com/developer_dao/status/1908227393715920931"/>
-        <updated>2025-04-04T17:08:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Paloma
-sent my eth address to @developer_dao to get the nft I won lol
-
-Ethereum.org: The first thing you ever did on ethereum was _______]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Real-world MCP Server with One TypeScript File | Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=kXuRJXEzrE0</id>
