@@ -1,6 +1,83 @@
 {
   "sources": [
     {
+      "title": "Twitter @Developer DAO (🧱, 🚀)",
+      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
+      "siteUrl": "https://x.com/developer_dao",
+      "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1912655416208814174",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\nWant to learn how to turn Siri into your AI Art Assistant?\nIn my latest blog post, i'll show you how to create an @Apple Shortcut to generate you AI art with the click of a button powered by @Lilypad_Tech🤯\nPrep yourself for the next AI Art trend😎\nLink in the next post👇",
+          "link": "https://x.com/developer_dao/status/1912655416208814174",
+          "publishedOn": "2025-04-16T22:59:33.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: Want to learn how to turn Siri into your AI Art Assistant? In my latest blog post, i'll show you how to create an @Apple Shortcu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1912723855594123665",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT jen\nstarted building an ai coach using my watch data to get personalized fitness insights\nit's powered by @nillionnetwork secretllm so my data stays private",
+          "link": "https://x.com/developer_dao/status/1912723855594123665",
+          "publishedOn": "2025-04-16T14:24:46.000Z",
+          "wordCount": null,
+          "title": "RT jen: started building an ai coach using my watch data to get personalized fitness insights it's powered by @nillionnetwork secretllm so my data sta...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1912506277441540259",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Did you know you can use @Lilypad_Tech to generate AI art?\nTry it out yourself!\n1. Visit https://anura-playground.vercel.app/\n2. Click on the Text-to-Image tab\n3. Plug in a prompt and click generate to cook up your AI art 🎨\nGenerate an image and share it with using #MadeOnLilypad",
+          "link": "https://x.com/developer_dao/status/1912506277441540259",
+          "publishedOn": "2025-04-16T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Did you know you can use @Lilypad_Tech to generate AI art? Try it out yourself! 1. Visit https://anura-playground.vercel.app/ 2. Click on the Text-to-...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1912098581949108545",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Did you know that D_D is launching a platform to power your RPC needs?\nBuilt for web3 developers and powered by @POKTnetwork🔥\nIf you like your RPCs built for low-latency and high performance, sign up for the waitlist today in lieu of our launch in May!\nhttps://devdao.to/rpc-waitlist",
+          "link": "https://x.com/developer_dao/status/1912098581949108545",
+          "publishedOn": "2025-04-15T11:00:01.000Z",
+          "wordCount": null,
+          "title": "Did you know that D_D is launching a platform to power your RPC needs? Built for web3 developers and powered by @POKTnetwork🔥 If you like your RPCs...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1911857199942623433",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\n🚨 Introducing Vision Inference Support 🚨\nThe @Lilypad_Tech Anura API just got a boost today adding multimodal capabilities for you to run inference against images!\nUse the API to answer q's like:\n- What's in this image?\n- What's the text in this image?\nCheck it out today👇",
+          "link": "https://x.com/developer_dao/status/1911857199942623433",
+          "publishedOn": "2025-04-14T16:30:54.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: 🚨 Introducing Vision Inference Support 🚨 The @Lilypad_Tech Anura API just got a boost today adding multimodal capabilities...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1911856716943441970",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Billyjitsu ⟁\nI did a sneak peak into upcoming workshops.  Very cool stuff.  If you are in to AI.  Don't sleep on this one\n\nDeveloper DAO (🧱, 🚀): Some stories feel like they were meant to happen. This one starts with open-source, shared values, and a bunch of builders who never stopped experimenting.\n@developer_dao 🤝 @Lilypad_Tech\nLet’s talk about a partnership that’s been in the works long before it was official.",
+          "link": "https://x.com/developer_dao/status/1911856716943441970",
+          "publishedOn": "2025-04-14T15:15:51.000Z",
+          "wordCount": null,
+          "title": "RT Billyjitsu ⟁: I did a sneak peak into upcoming workshops. Very cool stuff. If you are in to AI. Don't sleep on this one",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1911856775139364939",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ally Haire | 🏗 Lilypad for AI | bio/acc\nEpic @Lilypad_Tech use case here..\n\nDappaDan: when you have the same amount of fun creating the hack as making the video then you can't lose! \nIntroducing DappaDiary - Your Own Notebook LM:",
+          "link": "https://x.com/developer_dao/status/1911856775139364939",
+          "publishedOn": "2025-04-14T12:33:10.000Z",
+          "wordCount": null,
+          "title": "RT Ally Haire | 🏗 Lilypad for AI | bio/acc: Epic @Lilypad_Tech use case here..",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
