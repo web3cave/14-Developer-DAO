@@ -6,6 +6,76 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1913306553408798850",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Its been a great week learning about what our friends at @Lilypad_Tech have built!\nTell us what you learned about Lilypad this week👇",
+          "link": "https://x.com/developer_dao/status/1913306553408798850",
+          "publishedOn": "2025-04-18T19:00:04.000Z",
+          "wordCount": null,
+          "title": "Its been a great week learning about what our friends at @Lilypad_Tech have built! Tell us what you learned about Lilypad this week👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913284687092650416",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Developer DAO is for everyone and everything.",
+          "link": "https://x.com/developer_dao/status/1913284687092650416",
+          "publishedOn": "2025-04-18T17:33:11.000Z",
+          "wordCount": null,
+          "title": "Developer DAO is for everyone and everything.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913282099672752563",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "gm",
+          "link": "https://x.com/developer_dao/status/1913282099672752563",
+          "publishedOn": "2025-04-18T17:22:54.000Z",
+          "wordCount": null,
+          "title": "gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913286442442436853",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Lilypad Network\nAccessing AI models today is fragmented. Logins here, subscriptions there, paywalls everywhere.\nImagine running models you want, when you want, with no hoops to jump through. With Lilypad, you can.\nSo what models do you want to be able to use permissionlessly? Let us know 👇",
+          "link": "https://x.com/developer_dao/status/1913286442442436853",
+          "publishedOn": "2025-04-18T17:02:39.000Z",
+          "wordCount": null,
+          "title": "RT Lilypad Network: Accessing AI models today is fragmented. Logins here, subscriptions there, paywalls everywhere. Imagine running models you want, w...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913281838111748393",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT hone1er ᵍᵐ\nWe’ve been building 🏗️ a better way to search 🔍 and understand 🧠 what’s happening onchain\nChat with the chain ⛓️‍💥 let Sage explain the complex stuff\nBut that’s just the start 👀\n\nHerd 🦬: Today, the Herd beta officially launches. \nGet ready for the easiest way to search and understand anything onchain. No more fumbling about contracts and transactions, wondering what's happening where. \nWe've combined etherscan, google, and chatgpt into one app.",
+          "link": "https://x.com/developer_dao/status/1913281838111748393",
+          "publishedOn": "2025-04-18T16:43:49.000Z",
+          "wordCount": null,
+          "title": "RT hone1er ᵍᵐ: We’ve been building 🏗️ a better way to search 🔍 and understand 🧠 what’s happening onchain Chat with the chain ⛓️‍💥 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913286432552305146",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ar.io network\nDiscover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘\nBotega offers a censorship-resistant financial experience with decentralized frontend via ArNS & AI agents 🤖",
+          "link": "https://x.com/developer_dao/status/1913286432552305146",
+          "publishedOn": "2025-04-18T16:26:23.000Z",
+          "wordCount": null,
+          "title": "RT ar.io network: Discover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘 Botega offers a censorship-resistant financia...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1913281881266872399",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jay-Albert.bit @ NYC\nGrok is just the start.\nX is turning into a creative operating system, and I wrote about what that looks like.\nThe article focuses on X and Grok, but the playbook applies to Meta, OpenAI, and every platform racing to own the interface of generative AI.\nhttps://jonathan-albert.medium.com/threads-tools-and-grok-inside-the-generative-future-of-x-f70c7e347f37",
+          "link": "https://x.com/developer_dao/status/1913281881266872399",
+          "publishedOn": "2025-04-18T15:21:57.000Z",
+          "wordCount": null,
+          "title": "RT Jay-Albert.bit @ NYC: Grok is just the start. X is turning into a creative operating system, and I wrote about what that looks like. The article fo...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1912959736833778171",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Lilypad Network\nText-to-Video on the Lilypad API? 🔜",
@@ -76,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1912506277441540259",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Did you know you can use @Lilypad_Tech to generate AI art?\nTry it out yourself!\n1. Visit https://anura-playground.vercel.app/\n2. Click on the Text-to-Image tab\n3. Plug in a prompt and click generate to cook up your AI art 🎨\nGenerate an image and share it with using #MadeOnLilypad",
-          "link": "https://x.com/developer_dao/status/1912506277441540259",
-          "publishedOn": "2025-04-16T14:00:03.000Z",
-          "wordCount": null,
-          "title": "Did you know you can use @Lilypad_Tech to generate AI art? Try it out yourself! 1. Visit https://anura-playground.vercel.app/ 2. Click on the Text-to-...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1912960229299593483",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT megabyte\nThe first week of building:\n- Created 3 @farcaster_xyz mini-frames on @base \n- Got some $ETH by @buildonbase \nThis week, I'll:\n- Create my first Rust project.\n- Ideate something with @NoirLang, @eigenlayer and @base (if anon interested in doing this together HMU)\n\n\nmegabyte: “Dopamine from action”\nAfter the @0rbitco acquisition, I got stuck in the dopamine information loop while looking for the next thing.\nI read about ZK, AI, Privacy Tech, EigenLayer, Consumer apps, and most recently about tariffs 🐣\nThis loop took a whole month, and the net",
@@ -106,26 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1912098581949108545",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Did you know that D_D is launching a platform to power your RPC needs?\nBuilt for web3 developers and powered by @POKTnetwork🔥\nIf you like your RPCs built for low-latency and high performance, sign up for the waitlist today in lieu of our launch in May!\nhttps://devdao.to/rpc-waitlist",
-          "link": "https://x.com/developer_dao/status/1912098581949108545",
-          "publishedOn": "2025-04-15T11:00:01.000Z",
-          "wordCount": null,
-          "title": "Did you know that D_D is launching a platform to power your RPC needs? Built for web3 developers and powered by @POKTnetwork🔥 If you like your RPCs...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1911857199942623433",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Narb | narbeh.eth\n🚨 Introducing Vision Inference Support 🚨\nThe @Lilypad_Tech Anura API just got a boost today adding multimodal capabilities for you to run inference against images!\nUse the API to answer q's like:\n- What's in this image?\n- What's the text in this image?\nCheck it out today👇",
-          "link": "https://x.com/developer_dao/status/1911857199942623433",
-          "publishedOn": "2025-04-14T16:30:54.000Z",
-          "wordCount": null,
-          "title": "RT Narb | narbeh.eth: 🚨 Introducing Vision Inference Support 🚨 The @Lilypad_Tech Anura API just got a boost today adding multimodal capabilities...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1912960479187923157",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Web3 Afrika | web3afrika.eth\n📣 BUILDERS ASSEMBLE! 📣\nWe are excited to announce the Build Afrika: Code, Collaborate, and Scale Event! 🚀\n📅 Saturday, May 10, 2025 \n📍 The Zone, Gbagada, Lagos \n⏰ 9:00 AM - 4:00 PM\nProudly sponsored by @MorphLayer\nLimited slots! \nRegister now: https://lu.ma/rbl4pnla",
@@ -141,18 +181,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=kXuRJXEzrE0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kXuRJXEzrE0",
-          "publishedOn": "2025-03-20T00:01:52.000Z",
-          "wordCount": null,
-          "title": "Build a Real-world MCP Server with One TypeScript File | Full Tutorial",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
