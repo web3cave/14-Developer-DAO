@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T06:18:28.208Z</id>
+    <id>urn:2025-04-20T06:17:57.322Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-19T06:18:28.208Z</updated>
+    <updated>2025-04-20T06:17:57.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -128,20 +128,6 @@ Hear @DeveloperAlly give us the rundown of how Bacalhau became a part of the Lil
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📣 Ready for another coding with @crypdoughdoteth session? Tune in every week for a new session where Crypdough will live code D_D Cloud features to...]]></title>
-        <id>https://twitter.com/developer_dao/status/1912908991279276122</id>
-        <link href="https://x.com/developer_dao/status/1912908991279276122"/>
-        <updated>2025-04-17T16:40:18.000Z</updated>
-        <summary type="html"><![CDATA[📣 Ready for another coding with @crypdoughdoteth session?
-Tune in every week for a new session where Crypdough will live code D_D Cloud features to help you learn new coding skills!
-ℹ️ Topic: Http Client testing and more!
-📆 April 18th, VC5, 1pm EST (5pm UTC)
-See you there!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Api3: 🚨 Workshop 2 just dropped🎯 Learn how to perform a liquidation using OEV Nework on @SeiNetwork — fully on-chain with @Api3DAO. Hosted b...]]></title>
         <id>https://twitter.com/developer_dao/status/1912959705531764905</id>
         <link href="https://x.com/developer_dao/status/1912959705531764905"/>
@@ -153,32 +139,6 @@ Hosted by @billyjitsu_ & @BasementNodes via @buildwithsei.
 Missed it? Catch the replay  👇
 
 Build with Sei: API3 WorkShop - AAVE liquidations https://x.com/i/broadcasts/1vOxwXpRnYgKB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: Want to learn how to turn Siri into your AI Art Assistant? In my latest blog post, i'll show you how to create an @Apple Shortcu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1912655416208814174</id>
-        <link href="https://x.com/developer_dao/status/1912655416208814174"/>
-        <updated>2025-04-16T22:59:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-Want to learn how to turn Siri into your AI Art Assistant?
-In my latest blog post, i'll show you how to create an @Apple Shortcut to generate you AI art with the click of a button powered by @Lilypad_Tech🤯
-Prep yourself for the next AI Art trend😎
-Link in the next post👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT jen: started building an ai coach using my watch data to get personalized fitness insights it's powered by @nillionnetwork secretllm so my data sta...]]></title>
-        <id>https://twitter.com/developer_dao/status/1912723855594123665</id>
-        <link href="https://x.com/developer_dao/status/1912723855594123665"/>
-        <updated>2025-04-16T14:24:46.000Z</updated>
-        <summary type="html"><![CDATA[RT jen
-started building an ai coach using my watch data to get personalized fitness insights
-it's powered by @nillionnetwork secretllm so my data stays private]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
