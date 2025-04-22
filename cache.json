@@ -6,6 +6,26 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1914514756079374385",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ar://kemp | kempsterrrr.eth | 🫂\nThis is a dope use-case for Arweave,  @ar_io_network and Arweave Name System (ArNS).\nPermanently stored and accessible Gameboy ROMs, for the culture 🎮 👾\ns/o @0xinternetchild and secret dev\n\nInternet Child: I present  https://permaroms.ar.io/.\nThe first rom sharing website fully hosted on Arweave\nYou can go and download every roms from the Game Boy Advance catalogue for free ($0) to run on your emulator.\nThey will be saved on there FOREVER and Nintendo can only COPE & SEETHE.",
+          "link": "https://x.com/developer_dao/status/1914514756079374385",
+          "publishedOn": "2025-04-21T16:45:56.000Z",
+          "wordCount": null,
+          "title": "RT ar://kemp | kempsterrrr.eth | 🫂: This is a dope use-case for Arweave, @ar_io_network and Arweave Name System (ArNS). Permanently stored and acce...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1914514727482614122",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\nI bet you've seen a bunch of content around @Lilypad_Tech's Inference API called Anura, so I figured I'd write up a blog post about it\nIf you like free access to some of the bigger @nvidia cards like the 4090, 5090, A5000's, A6000's, etc... through an unified API, read on below",
+          "link": "https://x.com/developer_dao/status/1914514727482614122",
+          "publishedOn": "2025-04-21T15:12:34.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: I bet you've seen a bunch of content around @Lilypad_Tech's Inference API called Anura, so I figured I'd write up a blog post ab...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1913306553408798850",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Its been a great week learning about what our friends at @Lilypad_Tech have built!\nTell us what you learned about Lilypad this week👇",
@@ -73,76 +93,6 @@
           "publishedOn": "2025-04-18T15:21:57.000Z",
           "wordCount": null,
           "title": "RT Jay-Albert.bit @ NYC: Grok is just the start. X is turning into a creative operating system, and I wrote about what that looks like. The article fo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912959736833778171",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Lilypad Network\nText-to-Video on the Lilypad API? 🔜",
-          "link": "https://x.com/developer_dao/status/1912959736833778171",
-          "publishedOn": "2025-04-17T19:30:35.000Z",
-          "wordCount": null,
-          "title": "RT Lilypad Network: Text-to-Video on the Lilypad API? 🔜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912959612682445183",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🎙️ Do Robots get lonely like humans? 🤖\nHear @openmind_agi founder @JanLiphardt share his perspective and how OpenMind is looking to enable machine to machine communication in the clip below👇",
-          "link": "https://x.com/developer_dao/status/1912959612682445183",
-          "publishedOn": "2025-04-17T19:00:40.000Z",
-          "wordCount": null,
-          "title": "RT DevNTell: 🎙️ Do Robots get lonely like humans? 🤖 Hear @openmind_agi founder @JanLiphardt share his perspective and how OpenMind is looking t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912944226587066853",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🎙️ Have you heard about the @BacalhauProject?\nBacalhau is the execution layer that powers the @Lilypad_Tech network ⚡\nHear @DeveloperAlly give us the rundown of how Bacalhau became a part of the Lilypad story👇",
-          "link": "https://x.com/developer_dao/status/1912944226587066853",
-          "publishedOn": "2025-04-17T19:00:19.000Z",
-          "wordCount": null,
-          "title": "🎙️ Have you heard about the @BacalhauProject? Bacalhau is the execution layer that powers the @Lilypad_Tech network ⚡ Hear @DeveloperAlly give us...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912959705531764905",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Api3\n🚨 Workshop 2 just dropped🎯\nLearn how to perform a liquidation using OEV Nework on @SeiNetwork — fully on-chain with @Api3DAO.\nHosted by @billyjitsu_ & @BasementNodes via @buildwithsei.\nMissed it? Catch the replay  👇\n\nBuild with Sei: API3 WorkShop - AAVE liquidations https://x.com/i/broadcasts/1vOxwXpRnYgKB",
-          "link": "https://x.com/developer_dao/status/1912959705531764905",
-          "publishedOn": "2025-04-17T16:00:03.000Z",
-          "wordCount": null,
-          "title": "RT Api3: 🚨 Workshop 2 just dropped🎯 Learn how to perform a liquidation using OEV Nework on @SeiNetwork — fully on-chain with @Api3DAO. Hosted b...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912960229299593483",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT megabyte\nThe first week of building:\n- Created 3 @farcaster_xyz mini-frames on @base \n- Got some $ETH by @buildonbase \nThis week, I'll:\n- Create my first Rust project.\n- Ideate something with @NoirLang, @eigenlayer and @base (if anon interested in doing this together HMU)\n\n\nmegabyte: “Dopamine from action”\nAfter the @0rbitco acquisition, I got stuck in the dopamine information loop while looking for the next thing.\nI read about ZK, AI, Privacy Tech, EigenLayer, Consumer apps, and most recently about tariffs 🐣\nThis loop took a whole month, and the net",
-          "link": "https://x.com/developer_dao/status/1912960229299593483",
-          "publishedOn": "2025-04-16T13:20:57.000Z",
-          "wordCount": null,
-          "title": "RT megabyte: The first week of building: - Created 3 @farcaster_xyz mini-frames on @base - Got some $ETH by @buildonbase This week, I'll: - Create my ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912960411139539000",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Jay-Albert.bit @ NYC\nI just launched a GPT that turns any smart contract into game demo ideas:\n👉 https://chatgpt.com/g/g-67e71d3f566c81918471509fb5b3b63b-web3-game-mechanic-generator\nBut the real value isn’t just the GPT; it’s the method I used to refine the prompt until it became a tool.\n🧵👇",
-          "link": "https://x.com/developer_dao/status/1912960411139539000",
-          "publishedOn": "2025-04-15T16:08:19.000Z",
-          "wordCount": null,
-          "title": "RT Jay-Albert.bit @ NYC: I just launched a GPT that turns any smart contract into game demo ideas: 👉 https://chatgpt.com/g/g-67e71d3f566c8191847150...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1912960479187923157",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Web3 Afrika | web3afrika.eth\n📣 BUILDERS ASSEMBLE! 📣\nWe are excited to announce the Build Afrika: Code, Collaborate, and Scale Event! 🚀\n📅 Saturday, May 10, 2025 \n📍 The Zone, Gbagada, Lagos \n⏰ 9:00 AM - 4:00 PM\nProudly sponsored by @MorphLayer\nLimited slots! \nRegister now: https://lu.ma/rbl4pnla",
-          "link": "https://x.com/developer_dao/status/1912960479187923157",
-          "publishedOn": "2025-04-09T07:01:38.000Z",
-          "wordCount": null,
-          "title": "RT Web3 Afrika | web3afrika.eth: 📣 BUILDERS ASSEMBLE! 📣 We are excited to announce the Build Afrika: Code, Collaborate, and Scale Event! 🚀 �...",
           "imageUrl": null
         }
       ]
