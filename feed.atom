@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-22T06:19:44.002Z</id>
+    <id>urn:2025-04-23T06:19:42.843Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-22T06:19:44.002Z</updated>
+    <updated>2025-04-23T06:19:42.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -47,26 +47,6 @@ Tell us what you learned about Lilypad this week👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer DAO is for everyone and everything.]]></title>
-        <id>https://twitter.com/developer_dao/status/1913284687092650416</id>
-        <link href="https://x.com/developer_dao/status/1913284687092650416"/>
-        <updated>2025-04-18T17:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Developer DAO is for everyone and everything.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm]]></title>
-        <id>https://twitter.com/developer_dao/status/1913282099672752563</id>
-        <link href="https://x.com/developer_dao/status/1913282099672752563"/>
-        <updated>2025-04-18T17:22:54.000Z</updated>
-        <summary type="html"><![CDATA[gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Lilypad Network: Accessing AI models today is fragmented. Logins here, subscriptions there, paywalls everywhere. Imagine running models you want, w...]]></title>
         <id>https://twitter.com/developer_dao/status/1913286442442436853</id>
         <link href="https://x.com/developer_dao/status/1913286442442436853"/>
@@ -80,23 +60,6 @@ So what models do you want to be able to use permissionlessly? Let us know 👇]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT hone1er ᵍᵐ: We’ve been building 🏗️ a better way to search 🔍 and understand 🧠 what’s happening onchain Chat with the chain ⛓️‍💥 ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1913281838111748393</id>
-        <link href="https://x.com/developer_dao/status/1913281838111748393"/>
-        <updated>2025-04-18T16:43:49.000Z</updated>
-        <summary type="html"><![CDATA[RT hone1er ᵍᵐ
-We’ve been building 🏗️ a better way to search 🔍 and understand 🧠 what’s happening onchain
-Chat with the chain ⛓️‍💥 let Sage explain the complex stuff
-But that’s just the start 👀
-
-Herd 🦬: Today, the Herd beta officially launches. 
-Get ready for the easiest way to search and understand anything onchain. No more fumbling about contracts and transactions, wondering what's happening where. 
-We've combined etherscan, google, and chatgpt into one app.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ar.io network: Discover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘 Botega offers a censorship-resistant financia...]]></title>
         <id>https://twitter.com/developer_dao/status/1913286432552305146</id>
         <link href="https://x.com/developer_dao/status/1913286432552305146"/>
@@ -104,20 +67,6 @@ We've combined etherscan, google, and chatgpt into one app.]]></summary>
         <summary type="html"><![CDATA[RT ar.io network
 Discover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘
 Botega offers a censorship-resistant financial experience with decentralized frontend via ArNS & AI agents 🤖]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jay-Albert.bit @ NYC: Grok is just the start. X is turning into a creative operating system, and I wrote about what that looks like. The article fo...]]></title>
-        <id>https://twitter.com/developer_dao/status/1913281881266872399</id>
-        <link href="https://x.com/developer_dao/status/1913281881266872399"/>
-        <updated>2025-04-18T15:21:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Jay-Albert.bit @ NYC
-Grok is just the start.
-X is turning into a creative operating system, and I wrote about what that looks like.
-The article focuses on X and Grok, but the playbook applies to Meta, OpenAI, and every platform racing to own the interface of generative AI.
-https://jonathan-albert.medium.com/threads-tools-and-grok-inside-the-generative-future-of-x-f70c7e347f37]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
