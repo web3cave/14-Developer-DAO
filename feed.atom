@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T06:19:42.843Z</id>
+    <id>urn:2025-04-24T06:19:52.675Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-23T06:19:42.843Z</updated>
+    <updated>2025-04-24T06:19:52.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,42 +31,6 @@ They will be saved on there FOREVER and Nintendo can only COPE & SEETHE.]]></sum
         <summary type="html"><![CDATA[RT Narb | narbeh.eth
 I bet you've seen a bunch of content around @Lilypad_Tech's Inference API called Anura, so I figured I'd write up a blog post about it
 If you like free access to some of the bigger @nvidia cards like the 4090, 5090, A5000's, A6000's, etc... through an unified API, read on below]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Its been a great week learning about what our friends at @Lilypad_Tech have built! Tell us what you learned about Lilypad this week👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1913306553408798850</id>
-        <link href="https://x.com/developer_dao/status/1913306553408798850"/>
-        <updated>2025-04-18T19:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Its been a great week learning about what our friends at @Lilypad_Tech have built!
-Tell us what you learned about Lilypad this week👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lilypad Network: Accessing AI models today is fragmented. Logins here, subscriptions there, paywalls everywhere. Imagine running models you want, w...]]></title>
-        <id>https://twitter.com/developer_dao/status/1913286442442436853</id>
-        <link href="https://x.com/developer_dao/status/1913286442442436853"/>
-        <updated>2025-04-18T17:02:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Lilypad Network
-Accessing AI models today is fragmented. Logins here, subscriptions there, paywalls everywhere.
-Imagine running models you want, when you want, with no hoops to jump through. With Lilypad, you can.
-So what models do you want to be able to use permissionlessly? Let us know 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ar.io network: Discover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘 Botega offers a censorship-resistant financia...]]></title>
-        <id>https://twitter.com/developer_dao/status/1913286432552305146</id>
-        <link href="https://x.com/developer_dao/status/1913286432552305146"/>
-        <updated>2025-04-18T16:26:23.000Z</updated>
-        <summary type="html"><![CDATA[RT ar.io network
-Discover @Botega_AF - a DeFi platform leveraging Arweave, $ARIO, & @aoTheComputer 🐘
-Botega offers a censorship-resistant financial experience with decentralized frontend via ArNS & AI agents 🤖]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
