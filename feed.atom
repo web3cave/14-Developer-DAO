@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T06:27:34.348Z</id>
+    <id>urn:2025-04-29T06:20:20.504Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-28T06:27:34.348Z</updated>
+    <updated>2025-04-29T06:20:20.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,11 +69,32 @@ Simpler times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer DAO workshop - Getting started with Lilypad AI tools - EP 47 https://x.com/i/broadcasts/1lDxLzNXrLkGm]]></title>
-        <id>https://twitter.com/developer_dao/status/1915073211789705522</id>
-        <link href="https://x.com/developer_dao/status/1915073211789705522"/>
-        <updated>2025-04-23T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Developer DAO workshop - Getting started with Lilypad AI tools - EP 47 https://x.com/i/broadcasts/1lDxLzNXrLkGm]]></summary>
+        <title type="html"><![CDATA[RT megabyte: 🦀 Built my first Rust project today 🦀 * without any vibe coding * A @telegram bot for showcasing the leaderboard. What it does: - F...]]></title>
+        <id>https://twitter.com/developer_dao/status/1916880421532631186</id>
+        <link href="https://x.com/developer_dao/status/1916880421532631186"/>
+        <updated>2025-04-23T18:54:17.000Z</updated>
+        <summary type="html"><![CDATA[RT megabyte
+🦀 Built my first Rust project today 🦀
+* without any vibe coding * 
+A @telegram bot for showcasing the leaderboard.
+What it does:
+- Fetch data from @supabase
+- Post the leaderboard every 24 hours in the group.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT betts: honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. nearly 40% of us dropped out last year. (Ouch.) but I don't ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1916880461001097590</id>
+        <link href="https://x.com/developer_dao/status/1916880461001097590"/>
+        <updated>2025-04-22T15:17:40.000Z</updated>
+        <summary type="html"><![CDATA[RT betts
+honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. 
+nearly 40% of us dropped out last year. (Ouch.)
+but I don't think web3 is dead, just needs a reality check
+wrote down my honest pov where we could find pmf and how we can bring back dev engagement as DevRel and builder in the space.
+ https://medium.com/p/is-web3-development-dead-a-devrel-perspective-e5bc55ce62f6?source=social.tw]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

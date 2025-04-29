@@ -56,13 +56,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1915073211789705522",
+          "id": "https://twitter.com/developer_dao/status/1916880421532631186",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Developer DAO workshop - Getting started with Lilypad AI tools - EP 47 https://x.com/i/broadcasts/1lDxLzNXrLkGm",
-          "link": "https://x.com/developer_dao/status/1915073211789705522",
-          "publishedOn": "2025-04-23T16:00:08.000Z",
+          "description": "RT megabyte\n🦀 Built my first Rust project today 🦀\n* without any vibe coding * \nA @telegram bot for showcasing the leaderboard.\nWhat it does:\n- Fetch data from @supabase\n- Post the leaderboard every 24 hours in the group.",
+          "link": "https://x.com/developer_dao/status/1916880421532631186",
+          "publishedOn": "2025-04-23T18:54:17.000Z",
           "wordCount": null,
-          "title": "Developer DAO workshop - Getting started with Lilypad AI tools - EP 47 https://x.com/i/broadcasts/1lDxLzNXrLkGm",
+          "title": "RT megabyte: 🦀 Built my first Rust project today 🦀 * without any vibe coding * A @telegram bot for showcasing the leaderboard. What it does: - F...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1916880461001097590",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT betts\nhonestly? web3 devs are tired of chasing tokens and pizza meetups. me included. \nnearly 40% of us dropped out last year. (Ouch.)\nbut I don't think web3 is dead, just needs a reality check\nwrote down my honest pov where we could find pmf and how we can bring back dev engagement as DevRel and builder in the space.\n https://medium.com/p/is-web3-development-dead-a-devrel-perspective-e5bc55ce62f6?source=social.tw",
+          "link": "https://x.com/developer_dao/status/1916880461001097590",
+          "publishedOn": "2025-04-22T15:17:40.000Z",
+          "wordCount": null,
+          "title": "RT betts: honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. nearly 40% of us dropped out last year. (Ouch.) but I don't ...",
           "imageUrl": null
         }
       ]
