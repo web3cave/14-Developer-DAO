@@ -1,69 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T06:20:20.504Z</id>
+    <id>urn:2025-04-30T06:19:41.071Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-29T06:20:20.504Z</updated>
+    <updated>2025-04-30T06:19:41.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Its been another great week learning about what our friends at @Lilypad_Tech have built with the Anura Inference API after our last workshop! Tell us ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1915737567032709349</id>
-        <link href="https://x.com/developer_dao/status/1915737567032709349"/>
-        <updated>2025-04-25T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Its been another great week learning about what our friends at @Lilypad_Tech have built with the Anura Inference API after our last workshop!
-Tell us what you'd like to learn next with Lilypad👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📣 Ready for another coding with @crypdoughdoteth session? Tune in every week for a new session where Crypdough will live code D_D Cloud features to...]]></title>
-        <id>https://twitter.com/developer_dao/status/1915556385963860006</id>
-        <link href="https://x.com/developer_dao/status/1915556385963860006"/>
-        <updated>2025-04-25T00:00:06.000Z</updated>
-        <summary type="html"><![CDATA[📣 Ready for another coding with @crypdoughdoteth session?
-Tune in every week for a new session where Crypdough will live code D_D Cloud features to help you learn new coding skills!
-ℹ️ Topic: Coding up user models & plans
-📆 April 25th, VC5, 1pm EST (5pm UTC)
-See you there!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: Miss the simpler times @developer_dao]]></title>
-        <id>https://twitter.com/developer_dao/status/1915501699621675466</id>
-        <link href="https://x.com/developer_dao/status/1915501699621675466"/>
-        <updated>2025-04-24T19:11:04.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-Miss the simpler times @developer_dao
+        <title type="html"><![CDATA[RT Filecoin: .@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multil...]]></title>
+        <id>https://twitter.com/developer_dao/status/1917329166447567336</id>
+        <link href="https://x.com/developer_dao/status/1917329166447567336"/>
+        <updated>2025-04-29T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[RT Filecoin
+.@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multilingual and instruction-following abilities, 128K context length, and runs fully on decentralized compute for RAG, agents, and document tasks.
 
+Lilypad Network: And just like that, Qwen3-14b is now supported by the Lilypad API! 🚀
+Check out our API docs and learn how to get started: https://docs.lilypad.tech/lilypad/developer-resources/inference-api]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module? Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1917172015611695285</id>
+        <link href="https://x.com/developer_dao/status/1917172015611695285"/>
+        <updated>2025-04-29T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module?
+Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B model to run through the Lilypad Network
 
-tonyolendo.eth: Simpler times]]></summary>
+Jamiebones: Early last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to speech module on Lilypad. Do check it out; a blog post is incoming. Lilypad to the 🌍 
+https://github.com/jamiebones/Spark-TTS-0.5B]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📰 Hot off the presses 💁 A new snapshot proposal has been released, aiming to build a leaner foundation for Developer DAO's future success! If yo...]]></title>
-        <id>https://twitter.com/developer_dao/status/1915476539250213015</id>
-        <link href="https://x.com/developer_dao/status/1915476539250213015"/>
-        <updated>2025-04-24T18:42:49.000Z</updated>
-        <summary type="html"><![CDATA[📰 Hot off the presses
-💁 A new snapshot proposal has been released, aiming to build a leaner foundation for Developer DAO's future success!
-If you're a DAO member, please read it and vote to ensure D_D's continued success
-https://snapshot.box/#/s:devdao.eth/proposal/0x86b75452c07cfbeeda1413f294dcb0b6a0f085a3191fb78a7d039eb32ae9068a]]></summary>
+        <title type="html"><![CDATA[gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1917156915295265108</id>
+        <link href="https://x.com/developer_dao/status/1917156915295265108"/>
+        <updated>2025-04-29T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: Simpler times]]></title>
-        <id>https://twitter.com/developer_dao/status/1915482314098041226</id>
-        <link href="https://x.com/developer_dao/status/1915482314098041226"/>
-        <updated>2025-04-24T16:04:31.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-Simpler times]]></summary>
+        <title type="html"><![CDATA[DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw]]></title>
+        <id>https://twitter.com/developer_dao/status/1915790885872369732</id>
+        <link href="https://x.com/developer_dao/status/1915790885872369732"/>
+        <updated>2025-04-25T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
