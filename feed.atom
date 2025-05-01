@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T06:19:41.071Z</id>
+    <id>urn:2025-05-01T06:20:22.281Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-30T06:19:41.071Z</updated>
+    <updated>2025-05-01T06:20:22.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,16 +39,6 @@ https://github.com/jamiebones/Spark-TTS-0.5B]]></summary>
         <link href="https://x.com/developer_dao/status/1917156915295265108"/>
         <updated>2025-04-29T10:00:02.000Z</updated>
         <summary type="html"><![CDATA[gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw]]></title>
-        <id>https://twitter.com/developer_dao/status/1915790885872369732</id>
-        <link href="https://x.com/developer_dao/status/1915790885872369732"/>
-        <updated>2025-04-25T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

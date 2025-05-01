@@ -36,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1915790885872369732",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw",
-          "link": "https://x.com/developer_dao/status/1915790885872369732",
-          "publishedOn": "2025-04-25T15:31:55.000Z",
-          "wordCount": null,
-          "title": "DevNTell - @playonshaga, The World's First Twitch L2 | Guest: @DaeshawnBallard | Host: @narb_s https://x.com/i/broadcasts/1MYxNwElkBoKw",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1916880421532631186",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT megabyte\n🦀 Built my first Rust project today 🦀\n* without any vibe coding * \nA @telegram bot for showcasing the leaderboard.\nWhat it does:\n- Fetch data from @supabase\n- Post the leaderboard every 24 hours in the group.",
