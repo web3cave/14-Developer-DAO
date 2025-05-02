@@ -1,63 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @Developer DAO (🧱, 🚀)",
-      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
-      "siteUrl": "https://x.com/developer_dao",
-      "articles": [
-        {
-          "id": "https://twitter.com/developer_dao/status/1917329166447567336",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Filecoin\n.@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multilingual and instruction-following abilities, 128K context length, and runs fully on decentralized compute for RAG, agents, and document tasks.\n\nLilypad Network: And just like that, Qwen3-14b is now supported by the Lilypad API! 🚀\nCheck out our API docs and learn how to get started: https://docs.lilypad.tech/lilypad/developer-resources/inference-api",
-          "link": "https://x.com/developer_dao/status/1917329166447567336",
-          "publishedOn": "2025-04-29T20:34:51.000Z",
-          "wordCount": null,
-          "title": "RT Filecoin: .@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multil...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1917172015611695285",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Looking for an example of a @Lilypad_Tech AI Module?\nCheck out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B model to run through the Lilypad Network\n\nJamiebones: Early last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to speech module on Lilypad. Do check it out; a blog post is incoming. Lilypad to the 🌍 \nhttps://github.com/jamiebones/Spark-TTS-0.5B",
-          "link": "https://x.com/developer_dao/status/1917172015611695285",
-          "publishedOn": "2025-04-29T11:00:02.000Z",
-          "wordCount": null,
-          "title": "Looking for an example of a @Lilypad_Tech AI Module? Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1917156915295265108",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "gm",
-          "link": "https://x.com/developer_dao/status/1917156915295265108",
-          "publishedOn": "2025-04-29T10:00:02.000Z",
-          "wordCount": null,
-          "title": "gm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1916880421532631186",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT megabyte\n🦀 Built my first Rust project today 🦀\n* without any vibe coding * \nA @telegram bot for showcasing the leaderboard.\nWhat it does:\n- Fetch data from @supabase\n- Post the leaderboard every 24 hours in the group.",
-          "link": "https://x.com/developer_dao/status/1916880421532631186",
-          "publishedOn": "2025-04-23T18:54:17.000Z",
-          "wordCount": null,
-          "title": "RT megabyte: 🦀 Built my first Rust project today 🦀 * without any vibe coding * A @telegram bot for showcasing the leaderboard. What it does: - F...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1916880461001097590",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT betts\nhonestly? web3 devs are tired of chasing tokens and pizza meetups. me included. \nnearly 40% of us dropped out last year. (Ouch.)\nbut I don't think web3 is dead, just needs a reality check\nwrote down my honest pov where we could find pmf and how we can bring back dev engagement as DevRel and builder in the space.\n https://medium.com/p/is-web3-development-dead-a-devrel-perspective-e5bc55ce62f6?source=social.tw",
-          "link": "https://x.com/developer_dao/status/1916880461001097590",
-          "publishedOn": "2025-04-22T15:17:40.000Z",
-          "wordCount": null,
-          "title": "RT betts: honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. nearly 40% of us dropped out last year. (Ouch.) but I don't ...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
