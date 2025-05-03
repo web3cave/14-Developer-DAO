@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T06:19:27.682Z</id>
+    <id>urn:2025-05-03T06:17:52.871Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-02T06:19:27.682Z</updated>
+    <updated>2025-05-03T06:17:52.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Filecoin: .@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multil...]]></title>
+        <id>https://twitter.com/developer_dao/status/1917329166447567336</id>
+        <link href="https://x.com/developer_dao/status/1917329166447567336"/>
+        <updated>2025-04-29T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[RT Filecoin
+.@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multilingual and instruction-following abilities, 128K context length, and runs fully on decentralized compute for RAG, agents, and document tasks.
+
+Lilypad Network: And just like that, Qwen3-14b is now supported by the Lilypad API! 🚀
+Check out our API docs and learn how to get started: https://docs.lilypad.tech/lilypad/developer-resources/inference-api]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module? Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1917172015611695285</id>
+        <link href="https://x.com/developer_dao/status/1917172015611695285"/>
+        <updated>2025-04-29T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module?
+Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B model to run through the Lilypad Network
+
+Jamiebones: Early last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to speech module on Lilypad. Do check it out; a blog post is incoming. Lilypad to the 🌍 
+https://github.com/jamiebones/Spark-TTS-0.5B]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1917156915295265108</id>
+        <link href="https://x.com/developer_dao/status/1917156915295265108"/>
+        <updated>2025-04-29T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT megabyte: 🦀 Built my first Rust project today 🦀 * without any vibe coding * A @telegram bot for showcasing the leaderboard. What it does: - F...]]></title>
+        <id>https://twitter.com/developer_dao/status/1916880421532631186</id>
+        <link href="https://x.com/developer_dao/status/1916880421532631186"/>
+        <updated>2025-04-23T18:54:17.000Z</updated>
+        <summary type="html"><![CDATA[RT megabyte
+🦀 Built my first Rust project today 🦀
+* without any vibe coding * 
+A @telegram bot for showcasing the leaderboard.
+What it does:
+- Fetch data from @supabase
+- Post the leaderboard every 24 hours in the group.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT betts: honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. nearly 40% of us dropped out last year. (Ouch.) but I don't ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1916880461001097590</id>
+        <link href="https://x.com/developer_dao/status/1916880461001097590"/>
+        <updated>2025-04-22T15:17:40.000Z</updated>
+        <summary type="html"><![CDATA[RT betts
+honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. 
+nearly 40% of us dropped out last year. (Ouch.)
+but I don't think web3 is dead, just needs a reality check
+wrote down my honest pov where we could find pmf and how we can bring back dev engagement as DevRel and builder in the space.
+ https://medium.com/p/is-web3-development-dead-a-devrel-perspective-e5bc55ce62f6?source=social.tw]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
 </feed>
