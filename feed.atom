@@ -1,75 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T06:17:52.871Z</id>
+    <id>urn:2025-05-04T06:18:46.209Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-03T06:17:52.871Z</updated>
+    <updated>2025-05-04T06:18:46.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Filecoin: .@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multil...]]></title>
-        <id>https://twitter.com/developer_dao/status/1917329166447567336</id>
-        <link href="https://x.com/developer_dao/status/1917329166447567336"/>
-        <updated>2025-04-29T20:34:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Filecoin
-.@Lilypad_Tech supports Qwen3-14B, an open-weight model trained with an advanced tokenizer and alignment methods. It offers strong multilingual and instruction-following abilities, 128K context length, and runs fully on decentralized compute for RAG, agents, and document tasks.
+        <title type="html"><![CDATA[What types of AI Models would you like to see built to run on @Lilypad_Tech]]></title>
+        <id>https://twitter.com/developer_dao/status/1918364869113594163</id>
+        <link href="https://x.com/developer_dao/status/1918364869113594163"/>
+        <updated>2025-05-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What types of AI Models would you like to see built to run on @Lilypad_Tech]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT JonnieSparkles✨: Arweave: pay now, store forever Everyone else: pay now, and forever]]></title>
+        <id>https://twitter.com/developer_dao/status/1918175389945675922</id>
+        <link href="https://x.com/developer_dao/status/1918175389945675922"/>
+        <updated>2025-05-01T21:54:12.000Z</updated>
+        <summary type="html"><![CDATA[RT JonnieSparkles✨
+Arweave: pay now, store forever
+Everyone else: pay now, and forever]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT steph 🌊 oceans404.eth: Today I livestreamed (😬) and built the Nundies - a community awards app inspired by The Office. The Nundies was built ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1918175225298207012</id>
+        <link href="https://x.com/developer_dao/status/1918175225298207012"/>
+        <updated>2025-05-01T19:25:17.000Z</updated>
+        <summary type="html"><![CDATA[RT steph 🌊 oceans404.eth
+Today I livestreamed (😬) and built the Nundies - a community awards app inspired by The Office.
+The Nundies was built using Nillion SecretVault and Monad on livestream by me, @_offmylawn, and 30 community members in the @nillionnetwork discord 💙]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: 🎙️ "You can do whatever you want in life" - @DaeshawnBallard If you want an inspirational boost to your day, hear Daeshawn Ballard te...]]></title>
+        <id>https://twitter.com/developer_dao/status/1918175114535026961</id>
+        <link href="https://x.com/developer_dao/status/1918175114535026961"/>
+        <updated>2025-05-01T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+🎙️ "You can do whatever you want in life" - @DaeshawnBallard
+If you want an inspirational boost to your day, hear Daeshawn Ballard tell us his story of how he hustled his way to becoming a Co-Founder of @playonshaga propelled by @developer_dao and its community 🤝]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT yinka: thrilled to share that i've joined @nillionnetwork! my goal is simple; deliver the highest quality resources for developers building on nill...]]></title>
+        <id>https://twitter.com/developer_dao/status/1918009201659723970</id>
+        <link href="https://x.com/developer_dao/status/1918009201659723970"/>
+        <updated>2025-05-01T16:02:16.000Z</updated>
+        <summary type="html"><![CDATA[RT yinka
+thrilled to share that i've joined @nillionnetwork!
+my goal is simple; deliver the highest quality resources for developers building on nillion, and to make it easy and practical to build the future of privacy.
+here’s why i’m excited about nillion 👇🏾🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT luke 🦣 🏳️‍🌈 🇹🇭: . @saugardev went from DevRel to founder in 28 days. Here’s how he did it. Now we’re cooking up a bootcamp to he...]]></title>
+        <id>https://twitter.com/developer_dao/status/1918008711555236260</id>
+        <link href="https://x.com/developer_dao/status/1918008711555236260"/>
+        <updated>2025-05-01T12:27:04.000Z</updated>
+        <summary type="html"><![CDATA[RT luke 🦣 🏳️‍🌈 🇹🇭
+. @saugardev went from DevRel to founder in 28 days. 
+Here’s how he did it. 
+Now we’re cooking up a bootcamp to help you do the same. 
+Learn more + sign up below.
 
-Lilypad Network: And just like that, Qwen3-14b is now supported by the Lilypad API! 🚀
-Check out our API docs and learn how to get started: https://docs.lilypad.tech/lilypad/developer-resources/inference-api]]></summary>
+Celestia developers: Kicking off a new show: Mammoth Mode.
+Episode 1 is out now, a conversation between @spaceagente and @saugardev from @provethemedia, who’s building a zk-powered tool to verify the provenance of  images.
+This series shines a spotlight on Mammothon winners… and if you want to]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module? Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1917172015611695285</id>
-        <link href="https://x.com/developer_dao/status/1917172015611695285"/>
-        <updated>2025-04-29T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Looking for an example of a @Lilypad_Tech AI Module?
-Check out this text-to-audio module built by D_D legend @Jamiescript enabling the Spark-TTS-0.5B model to run through the Lilypad Network
-
-Jamiebones: Early last week I was selected as one of @Lilypad_Tech Ambassadors. I just made my first contribution to the Lilypad space; a text to speech module on Lilypad. Do check it out; a blog post is incoming. Lilypad to the 🌍 
-https://github.com/jamiebones/Spark-TTS-0.5B]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm]]></title>
-        <id>https://twitter.com/developer_dao/status/1917156915295265108</id>
-        <link href="https://x.com/developer_dao/status/1917156915295265108"/>
-        <updated>2025-04-29T10:00:02.000Z</updated>
-        <summary type="html"><![CDATA[gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT megabyte: 🦀 Built my first Rust project today 🦀 * without any vibe coding * A @telegram bot for showcasing the leaderboard. What it does: - F...]]></title>
-        <id>https://twitter.com/developer_dao/status/1916880421532631186</id>
-        <link href="https://x.com/developer_dao/status/1916880421532631186"/>
-        <updated>2025-04-23T18:54:17.000Z</updated>
-        <summary type="html"><![CDATA[RT megabyte
-🦀 Built my first Rust project today 🦀
-* without any vibe coding * 
-A @telegram bot for showcasing the leaderboard.
-What it does:
-- Fetch data from @supabase
-- Post the leaderboard every 24 hours in the group.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT betts: honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. nearly 40% of us dropped out last year. (Ouch.) but I don't ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1916880461001097590</id>
-        <link href="https://x.com/developer_dao/status/1916880461001097590"/>
-        <updated>2025-04-22T15:17:40.000Z</updated>
-        <summary type="html"><![CDATA[RT betts
-honestly? web3 devs are tired of chasing tokens and pizza meetups. me included. 
-nearly 40% of us dropped out last year. (Ouch.)
-but I don't think web3 is dead, just needs a reality check
-wrote down my honest pov where we could find pmf and how we can bring back dev engagement as DevRel and builder in the space.
- https://medium.com/p/is-web3-development-dead-a-devrel-perspective-e5bc55ce62f6?source=social.tw]]></summary>
+        <title type="html"><![CDATA[RT Billyjitsu ⟁: Another DeFi focused drop. This time covering @AcrossProtocol 🤙]]></title>
+        <id>https://twitter.com/developer_dao/status/1918525388248236532</id>
+        <link href="https://x.com/developer_dao/status/1918525388248236532"/>
+        <updated>2025-04-30T20:51:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Billyjitsu ⟁
+Another DeFi focused drop.  This time covering @AcrossProtocol  🤙]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
