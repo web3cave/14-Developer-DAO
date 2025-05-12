@@ -1,6 +1,53 @@
 {
   "sources": [
     {
+      "title": "Twitter @Developer DAO (🧱, 🚀)",
+      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
+      "siteUrl": "https://x.com/developer_dao",
+      "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1920984157439635472",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\nCollect DevNTell - Innovating the future of on-chain finance with Mantle from DevNTell on @podsdotmedia! \nhttps://pods.media/devntell/devntell-innovating-the-future-of-on-chain-finance-with-mantle?referrer=0x9934f8CcFdF5E008aC8c07bf00582A833cd33b99",
+          "link": "https://x.com/developer_dao/status/1920984157439635472",
+          "publishedOn": "2025-05-09T20:07:44.000Z",
+          "wordCount": null,
+          "title": "RT DevNTell: Collect DevNTell - Innovating the future of on-chain finance with Mantle from DevNTell on @podsdotmedia! https://pods.media/devntell/devn...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1920983698192617890",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT JonnieSparkles✨\n🗣️📢 YOU CAN NOW USE $ARIO TO PAY FOR ARWEAVE UPLOADS!\n\nar.io network: NEW $ARIO UTILITY 🚨🆕\nTop up Turbo with $ARIO to upload data to Arweave wtih no additional fees (for now) 🤯🐘\nThis feature is available in the Turbo SDK + CLI now - with GUI coming soon™️",
+          "link": "https://x.com/developer_dao/status/1920983698192617890",
+          "publishedOn": "2025-05-09T17:45:45.000Z",
+          "wordCount": null,
+          "title": "RT JonnieSparkles✨: 🗣️📢 YOU CAN NOW USE $ARIO TO PAY FOR ARWEAVE UPLOADS!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1920161627535782375",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "The devs were cooking today! Congrats on the big release @ethereum 👏👏👏\n\nEthereum.org: Pectra is live on Ethereum mainnet!\n- Smart account wallet UX features now active\n- L2 scaling data storage blobs increased by 2x\n- Validator UX improvements live\nCommunity members will continue to monitor for any issues over the next 24 hours.",
+          "link": "https://x.com/developer_dao/status/1920161627535782375",
+          "publishedOn": "2025-05-07T16:59:41.000Z",
+          "wordCount": null,
+          "title": "The devs were cooking today! Congrats on the big release @ethereum 👏👏👏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1919917917715513774",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\nOk here me out, what about a DevNTell with @RockstarGames around GTA 6 👀",
+          "link": "https://x.com/developer_dao/status/1919917917715513774",
+          "publishedOn": "2025-05-06T17:20:31.000Z",
+          "wordCount": null,
+          "title": "RT DevNTell: Ok here me out, what about a DevNTell with @RockstarGames around GTA 6 👀",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
