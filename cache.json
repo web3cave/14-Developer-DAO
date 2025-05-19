@@ -1,6 +1,133 @@
 {
   "sources": [
     {
+      "title": "Twitter @Developer DAO (🧱, 🚀)",
+      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
+      "siteUrl": "https://x.com/developer_dao",
+      "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1924173020232593526",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jamiebones\nRe @Lilypad_Tech New features have been added to the Anura inference API that you can make use of in your AI workflows, such as:\nText-to-audio support: Create crisp-sounding audio recordings with your choice of 4 amazing voices #30daysofLilypad @developer_dao",
+          "link": "https://x.com/developer_dao/status/1924173020232593526",
+          "publishedOn": "2025-05-18T09:37:23.000Z",
+          "wordCount": null,
+          "title": "RT Jamiebones: Re @Lilypad_Tech New features have been added to the Anura inference API that you can make use of in your AI workflows, such as: Text-t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923045054484029749",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Hands up is this true for you 🙌\n\npbillingsby: It’s crazy to think about how many lives @developer_dao has changed",
+          "link": "https://x.com/developer_dao/status/1923045054484029749",
+          "publishedOn": "2025-05-15T15:57:24.000Z",
+          "wordCount": null,
+          "title": "Hands up is this true for you 🙌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923042861781540976",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby\nIt’s crazy to think about how many lives @developer_dao has changed",
+          "link": "https://x.com/developer_dao/status/1923042861781540976",
+          "publishedOn": "2025-05-15T15:43:02.000Z",
+          "wordCount": null,
+          "title": "RT pbillingsby: It’s crazy to think about how many lives @developer_dao has changed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923033788465983849",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT The Cloud Computing Company\nGcloud😀",
+          "link": "https://x.com/developer_dao/status/1923033788465983849",
+          "publishedOn": "2025-05-15T15:11:07.000Z",
+          "wordCount": null,
+          "title": "RT The Cloud Computing Company: Gcloud😀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923032932349796683",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "gm, gm!\nUnfortunately we will have to reschedule today's DevNTell with @blade_nd and @kolwaii due to unforeseen circumstances.\nStay tuned for a new date for the session",
+          "link": "https://x.com/developer_dao/status/1923032932349796683",
+          "publishedOn": "2025-05-15T15:09:13.000Z",
+          "wordCount": null,
+          "title": "gm, gm! Unfortunately we will have to reschedule today's DevNTell with @blade_nd and @kolwaii due to unforeseen circumstances. Stay tuned for a new da...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1922985322612392277",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "gm",
+          "link": "https://x.com/developer_dao/status/1922985322612392277",
+          "publishedOn": "2025-05-15T12:00:02.000Z",
+          "wordCount": null,
+          "title": "gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1922979682934223083",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you’re hiring and you’re not speaking to Dhai you’re doing it wrong.\n\nDhai: gm! I'm back from my break and actively looking for a new role in crypto 🙌\n(would appreciate RTs and vouches ❤️)\ntldr about me:\n- Been writing code for a living for ~7 yrs\n- In crypto since ~2020\n- My best work is a mixture of engineering prototypes/tooling, research",
+          "link": "https://x.com/developer_dao/status/1922979682934223083",
+          "publishedOn": "2025-05-15T11:37:38.000Z",
+          "wordCount": null,
+          "title": "If you’re hiring and you’re not speaking to Dhai you’re doing it wrong.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923043188316467357",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\nMy feeling when I learn I can mint episodes of DevNTell on @podsdotmedia 📈",
+          "link": "https://x.com/developer_dao/status/1923043188316467357",
+          "publishedOn": "2025-05-14T23:53:06.000Z",
+          "wordCount": null,
+          "title": "RT DevNTell: My feeling when I learn I can mint episodes of DevNTell on @podsdotmedia 📈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1923043385281040676",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ar://kemp | kempsterrrr.eth | 🫂\nOk progress on maximally decentralised @manifoldxyz galleries on Arweave Name System (ArNS)\nVersion with hard-coded arweave(dot) links - https://manifoldtest.arweave.net/\nVersion using ar://wayfinder to route requests to gateways in @ar_io_network - https://wayfinder_manifoldtest.ar.io/\n☝️ one still has a few issues on it re performance and general UX, but inspect the image URLs and you'll see there all from different gateways based on network stats.\nNext up, using the verification features in ar://wayfinder to verify hashes of the images being served and show the verification state to the user visually.\nmockups attached showing roughly the direction I'm going with visual verification feature\nonce this is all working and tided up will release an easy to use template so any @manifoldxyz creator can do this by buying an ArNS name and importing their collect contract address.\nMassive shout to @iamdtfiedler for this work on ar://wayfinder, it's in alpha but working beautifully\n@iamwhitelights get in here, also @toadswiback hope you don't mind me using your collection as an example, I thought it was dope af.\nif you're interested in a completely decentralised permanent gallery for your site on Arweave hmu 🙌\n\n\n\n\n\nar://kemp | kempsterrrr.eth | 🫂: @mbstuart @takinyerphoto @iamwhitelights @manifoldxyz Initial test for decentralised NFT Gallery template\nInput manifold collection address\nGet permanent unruggable gallery hosted on Arweave Name System domain + individual subdomain for each piece in the collection\nGallery - https://manifoldtest.ar.io/\nIndividual piece -",
+          "link": "https://x.com/developer_dao/status/1923043385281040676",
+          "publishedOn": "2025-05-14T23:37:07.000Z",
+          "wordCount": null,
+          "title": "RT ar://kemp | kempsterrrr.eth | 🫂: Ok progress on maximally decentralised @manifoldxyz galleries on Arweave Name System (ArNS) Version with hard-c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1922397648167825713",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Leonardo D Giuseppe\nI completed \"Building a Rootstock Powered DApp with NextJS and wagmi\" lesson from @rootstock_io track on @developer_dao Academy. https://academy.developerdao.com/tracks/rootstock-101/4",
+          "link": "https://x.com/developer_dao/status/1922397648167825713",
+          "publishedOn": "2025-05-13T20:48:56.000Z",
+          "wordCount": null,
+          "title": "RT Leonardo D Giuseppe: I completed \"Building a Rootstock Powered DApp with NextJS and wagmi\" lesson from @rootstock_io track on @developer_dao Academ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1922320939230101541",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🎙️ @Lilypad_Tech is helping break down barriers for DeSci\nWatch this talk with Lilypad Co-Founder @ScienceStanley and @_vivek_pujara who introduce us to an AI Oncologist Agent for analyzing oncological research papers using a multi-agent approach 🤖\nhttps://www.youtube.com/watch?v=5Hq3lUobrN4&t=5s",
+          "link": "https://x.com/developer_dao/status/1922320939230101541",
+          "publishedOn": "2025-05-13T16:00:01.000Z",
+          "wordCount": null,
+          "title": "🎙️ @Lilypad_Tech is helping break down barriers for DeSci Watch this talk with Lilypad Co-Founder @ScienceStanley and @_vivek_pujara who introduce...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1922096062711341514",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT valens\n🚨 Crypto UI spoofing attacks (such as the famous Bybit hack) are deceiving users into signing malicious transactions.\nIn this 2-part series that I recently published on @CyfrinAudits' blog, you'll learn how to:\n• Decode Ethereum calldata\n• Simulate transactions with Foundry\n• Detect and prevent spoofed approvals\n👇",
+          "link": "https://x.com/developer_dao/status/1922096062711341514",
+          "publishedOn": "2025-05-09T19:02:30.000Z",
+          "wordCount": null,
+          "title": "RT valens: 🚨 Crypto UI spoofing attacks (such as the famous Bybit hack) are deceiving users into signing malicious transactions. In this 2-part ser...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
