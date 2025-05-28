@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-27T06:20:21.301Z</id>
+    <id>urn:2025-05-28T06:20:40.180Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-27T06:20:21.301Z</updated>
+    <updated>2025-05-28T06:20:40.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead]]></title>
+        <id>https://twitter.com/developer_dao/status/1927439676752777531</id>
+        <link href="https://x.com/developer_dao/status/1927439676752777531"/>
+        <updated>2025-05-27T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pain]]></title>
         <id>https://twitter.com/developer_dao/status/1927132026487914795</id>
@@ -72,65 +82,12 @@ https://pods.media/devntell/devntell-gaia-a-decentralized-ecosystem-to-support-a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications | Guests: @me256ow & @toby_solutions | Host: @narb_s https://x.com/i/broa...]]></title>
-        <id>https://twitter.com/developer_dao/status/1925937267719192750</id>
-        <link href="https://x.com/developer_dao/status/1925937267719192750"/>
-        <updated>2025-05-23T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications | Guests: @me256ow & @toby_solutions | Host: @narb_s https://x.com/i/broadcasts/1LyxBWRvLqaKN]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Billyjitsu ⟁: Api3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ]]></title>
         <id>https://twitter.com/developer_dao/status/1925985171439816748</id>
         <link href="https://x.com/developer_dao/status/1925985171439816748"/>
         <updated>2025-05-23T15:02:11.000Z</updated>
         <summary type="html"><![CDATA[RT Billyjitsu ⟁
 Api3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: Our annual NYC meetup @crypdoughdoteth]]></title>
-        <id>https://twitter.com/developer_dao/status/1925985016644849866</id>
-        <link href="https://x.com/developer_dao/status/1925985016644849866"/>
-        <updated>2025-05-23T13:51:50.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-Our annual NYC meetup
-@crypdoughdoteth]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Bitcoin Pizza Day to those who celebrate🍕]]></title>
-        <id>https://twitter.com/developer_dao/status/1925631187034288202</id>
-        <link href="https://x.com/developer_dao/status/1925631187034288202"/>
-        <updated>2025-05-22T19:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Happy Bitcoin Pizza Day to those who celebrate🍕]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: Kenya sets groundwork to regulate virtual assets amid rising adoption https://www.citizen.digital/business/kenya-sets-groundwork-to...]]></title>
-        <id>https://twitter.com/developer_dao/status/1925663503215480877</id>
-        <link href="https://x.com/developer_dao/status/1925663503215480877"/>
-        <updated>2025-05-22T13:07:43.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-Kenya sets groundwork to regulate virtual assets amid rising adoption https://www.citizen.digital/business/kenya-sets-groundwork-to-regulate-virtual-assets-amid-rising-adoption-n363052]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When they tell you web3 won't make it but you continue to prove them wrong 😘]]></title>
-        <id>https://twitter.com/developer_dao/status/1925522052171399186</id>
-        <link href="https://x.com/developer_dao/status/1925522052171399186"/>
-        <updated>2025-05-22T12:00:06.000Z</updated>
-        <summary type="html"><![CDATA[When they tell you web3 won't make it but you continue to prove them wrong 😘]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1927439676752777531",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead",
+          "link": "https://x.com/developer_dao/status/1927439676752777531",
+          "publishedOn": "2025-05-27T19:00:03.000Z",
+          "wordCount": null,
+          "title": "When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1927132026487914795",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "pain\n\nalex fazio: tfw you find out that the start menu in windows 11 is literally a react native application that causes a spike in cpu usage every time you press the start button",
@@ -56,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1925937267719192750",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications | Guests: @me256ow & @toby_solutions | Host: @narb_s https://x.com/i/broadcasts/1LyxBWRvLqaKN",
-          "link": "https://x.com/developer_dao/status/1925937267719192750",
-          "publishedOn": "2025-05-23T15:30:01.000Z",
-          "wordCount": null,
-          "title": "DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications | Guests: @me256ow & @toby_solutions | Host: @narb_s https://x.com/i/broa...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1925985171439816748",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Billyjitsu ⟁\nApi3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ",
@@ -73,46 +73,6 @@
           "publishedOn": "2025-05-23T15:02:11.000Z",
           "wordCount": null,
           "title": "RT Billyjitsu ⟁: Api3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1925985016644849866",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby\nOur annual NYC meetup\n@crypdoughdoteth",
-          "link": "https://x.com/developer_dao/status/1925985016644849866",
-          "publishedOn": "2025-05-23T13:51:50.000Z",
-          "wordCount": null,
-          "title": "RT pbillingsby: Our annual NYC meetup @crypdoughdoteth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1925631187034288202",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Happy Bitcoin Pizza Day to those who celebrate🍕",
-          "link": "https://x.com/developer_dao/status/1925631187034288202",
-          "publishedOn": "2025-05-22T19:13:46.000Z",
-          "wordCount": null,
-          "title": "Happy Bitcoin Pizza Day to those who celebrate🍕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1925663503215480877",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonyolendo.eth\nKenya sets groundwork to regulate virtual assets amid rising adoption https://www.citizen.digital/business/kenya-sets-groundwork-to-regulate-virtual-assets-amid-rising-adoption-n363052",
-          "link": "https://x.com/developer_dao/status/1925663503215480877",
-          "publishedOn": "2025-05-22T13:07:43.000Z",
-          "wordCount": null,
-          "title": "RT tonyolendo.eth: Kenya sets groundwork to regulate virtual assets amid rising adoption https://www.citizen.digital/business/kenya-sets-groundwork-to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1925522052171399186",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "When they tell you web3 won't make it but you continue to prove them wrong 😘",
-          "link": "https://x.com/developer_dao/status/1925522052171399186",
-          "publishedOn": "2025-05-22T12:00:06.000Z",
-          "wordCount": null,
-          "title": "When they tell you web3 won't make it but you continue to prove them wrong 😘",
           "imageUrl": null
         }
       ]
