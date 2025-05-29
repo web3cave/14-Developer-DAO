@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T06:20:40.180Z</id>
+    <id>urn:2025-05-29T06:20:40.863Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-28T06:20:40.180Z</updated>
+    <updated>2025-05-29T06:20:40.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[👉 Don't miss out on owning a piece of D_D history Collect @devntellxyz - Introducing Developer DAO Cloud on @podsdotmedia! Be sure to also follow t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1927832255956983923</id>
+        <link href="https://x.com/developer_dao/status/1927832255956983923"/>
+        <updated>2025-05-28T21:00:01.000Z</updated>
+        <summary type="html"><![CDATA[👉 Don't miss out on owning a piece of D_D history
+Collect @devntellxyz - Introducing Developer DAO Cloud on @podsdotmedia!
+Be sure to also follow the official D_D Cloud account, @tccc_devdao, as we approach the release over the coming weeks!
+https://pods.media/devntell/devntell-introducing-developer-dao-cloud?referrer=0x9934f8CcFdF5E008aC8c07bf00582A833cd33b99]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead]]></title>
         <id>https://twitter.com/developer_dao/status/1927439676752777531</id>
@@ -65,29 +78,6 @@ Here's what to expect:
 - Actionable sessions on documentation, content, tooling, and events
 - Candid conversations on career growth, burnout, and how AI is shaping the DevRel landscape
 - DevRel surprises!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: Collect DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications on @podsdotmedia feat: @me256ow & @toby_solutions�...]]></title>
-        <id>https://twitter.com/developer_dao/status/1925985118872588446</id>
-        <link href="https://x.com/developer_dao/status/1925985118872588446"/>
-        <updated>2025-05-23T18:33:58.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-Collect DevNTell - @Gaianet_AI, A Decentralized Ecosystem to Support AI Applications on @podsdotmedia feat: @me256ow & @toby_solutions🤖
-https://pods.media/devntell/devntell-gaia-a-decentralized-ecosystem-to-support-ai-applications?referrer=0x9934f8CcFdF5E008aC8c07bf00582A833cd33b99]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Billyjitsu ⟁: Api3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ]]></title>
-        <id>https://twitter.com/developer_dao/status/1925985171439816748</id>
-        <link href="https://x.com/developer_dao/status/1925985171439816748"/>
-        <updated>2025-05-23T15:02:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Billyjitsu ⟁
-Api3 Workshop https://x.com/i/broadcasts/1djxXVMbdYyGZ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
