@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-31T06:18:28.872Z</id>
+    <id>urn:2025-06-01T06:19:54.767Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-31T06:18:28.872Z</updated>
+    <updated>2025-06-01T06:19:54.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[👉Collect the latest episode of @devntellxyz on @podsdotmedia! 💁‍♂️@eco, The Stablecoin Liquidity Layer feat @strao_ https://pods.media/devnte...]]></title>
+        <id>https://twitter.com/developer_dao/status/1928546366541697162</id>
+        <link href="https://x.com/developer_dao/status/1928546366541697162"/>
+        <updated>2025-05-30T20:17:39.000Z</updated>
+        <summary type="html"><![CDATA[👉Collect the latest episode of @devntellxyz on @podsdotmedia!
+💁‍♂️@eco, The Stablecoin Liquidity Layer feat @strao_
+https://pods.media/devntell/devntell-eco-the-stablecoin-liquidity-layer?referrer=0x9934f8CcFdF5E008aC8c07bf00582A833cd33b99]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ar://kemp | kempsterrrr.eth | 🫂: any @developer_dao friends looking for a project? 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1928486157739806872</id>
+        <link href="https://x.com/developer_dao/status/1928486157739806872"/>
+        <updated>2025-05-30T16:10:33.000Z</updated>
+        <summary type="html"><![CDATA[RT ar://kemp | kempsterrrr.eth | 🫂
+any @developer_dao friends looking for a project? 👀
+
+ar.io network: There's an RFP for an $ARIO grant seeking builders to create an open, timeline-driven explorer for Arweave Name System histories.
+The deadline is June 7, check out the full details and apply by submitting on the grants Github repo 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jamiebones: Be creative, use the @Lilypad_Tech Anura API to turn your text prompt into an image. Lilypad runs the SDXL-Turbo on decentralized GPUs....]]></title>
+        <id>https://twitter.com/developer_dao/status/1928156077121474673</id>
+        <link href="https://x.com/developer_dao/status/1928156077121474673"/>
+        <updated>2025-05-29T07:25:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Jamiebones
+Be creative, use the @Lilypad_Tech Anura API to turn your text prompt into an image. Lilypad runs the SDXL-Turbo on decentralized GPUs. You can also deploy your own censorship-free model and get paid when others use it. #30daysofLilypad. What are you waiting for to get started?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT buzea200👩‍💻👾🫶: Looking for video support — someone who can cut shorts from longer videos and handle some edits. Any recommendations? ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1928156125163380912</id>
+        <link href="https://x.com/developer_dao/status/1928156125163380912"/>
+        <updated>2025-05-28T21:58:30.000Z</updated>
+        <summary type="html"><![CDATA[RT buzea200👩‍💻👾🫶
+Looking for video support — someone who can cut shorts from longer videos and handle some edits. Any recommendations? 👀
+Please share a link to previous work🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👉 Don't miss out on owning a piece of D_D history Collect @devntellxyz - Introducing Developer DAO Cloud on @podsdotmedia! Be sure to also follow t...]]></title>
         <id>https://twitter.com/developer_dao/status/1927832255956983923</id>
@@ -19,65 +68,15 @@ https://pods.media/devntell/devntell-introducing-developer-dao-cloud?referrer=0x
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead]]></title>
-        <id>https://twitter.com/developer_dao/status/1927439676752777531</id>
-        <link href="https://x.com/developer_dao/status/1927439676752777531"/>
-        <updated>2025-05-27T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[When you told the senior dev you fixed the bug no one knew how to fix but ended up breaking production instead]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pain]]></title>
-        <id>https://twitter.com/developer_dao/status/1927132026487914795</id>
-        <link href="https://x.com/developer_dao/status/1927132026487914795"/>
-        <updated>2025-05-26T22:37:34.000Z</updated>
-        <summary type="html"><![CDATA[pain
-
-alex fazio: tfw you find out that the start menu in windows 11 is literally a react native application that causes a spike in cpu usage every time you press the start button]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lilypad Network: 🚀 Huge news: Lilypad is partnering with @recallnet to power the open intelligence economy. AI agents powered by Lilypad’s dece...]]></title>
-        <id>https://twitter.com/developer_dao/status/1927073513447322066</id>
-        <link href="https://x.com/developer_dao/status/1927073513447322066"/>
-        <updated>2025-05-26T14:03:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Lilypad Network
-🚀 Huge news: Lilypad is partnering with @recallnet to power the open intelligence economy.
-AI agents powered by Lilypad’s decentralized AI Inference can now join the Recall arena where agents battle to prove their performance. Together, we are building the future of agentic AI. 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jamiebones: Re @Lilypad_Tech x @PoscidonDAO are supercharging DeSci with decentralized AI workflows! From medical breakthroughs (#weCura) to on-cha...]]></title>
-        <id>https://twitter.com/developer_dao/status/1927073843480297959</id>
-        <link href="https://x.com/developer_dao/status/1927073843480297959"/>
-        <updated>2025-05-26T08:26:46.000Z</updated>
-        <summary type="html"><![CDATA[RT Jamiebones
-Re @Lilypad_Tech x @PoscidonDAO are supercharging DeSci with decentralized AI workflows! From medical breakthroughs (#weCura) to on-chain research, this collab is redefining open science. Compute meets credibility
-@Lilypad_Tech #30daysofLilypad @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT buzea200👩‍💻👾🫶: We don't stop building on the weekend! 🛠️ Have you checked out the @Web3_DevRel website lately? We're counting down...]]></title>
-        <id>https://twitter.com/developer_dao/status/1927073891572179048</id>
-        <link href="https://x.com/developer_dao/status/1927073891572179048"/>
-        <updated>2025-05-24T19:43:02.000Z</updated>
-        <summary type="html"><![CDATA[RT buzea200👩‍💻👾🫶
-We don't stop building on the weekend! 🛠️
-Have you checked out the @Web3_DevRel website lately?
-We're counting down to June 3rd for the first Web3 DevRel Summit, on the first day of @ethbelgrade!
-Here's what to expect:
-- Insightful talks and panels from leading DevRels in the space
-- Actionable sessions on documentation, content, tooling, and events
-- Candid conversations on career growth, burnout, and how AI is shaping the DevRel landscape
-- DevRel surprises!]]></summary>
+        <title type="html"><![CDATA[RT Web3 Afrika | web3afrika.eth: Web3 Afrika is 3!💃🏿💃🏿 Three years of learning, building, and community. From Discord chats to IRL panels,...]]></title>
+        <id>https://twitter.com/developer_dao/status/1928155796682199503</id>
+        <link href="https://x.com/developer_dao/status/1928155796682199503"/>
+        <updated>2025-05-27T09:37:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3 Afrika | web3afrika.eth
+Web3 Afrika is 3!💃🏿💃🏿
+Three years of learning, building, and community.
+From Discord chats to IRL panels, from 0 to impact,  it’s been a journey rooted in people, and community 
+Here’s how we grew Web3 for Africans, by Africans.  🧵👇🏿]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
