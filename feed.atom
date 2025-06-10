@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-09T06:21:58.795Z</id>
+    <id>urn:2025-06-10T06:20:49.113Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-09T06:21:58.795Z</updated>
+    <updated>2025-06-10T06:20:49.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CLOBs - Central Limit Order Books - in 3 Minutes: Everything You Need to Know]]></title>
+        <id>https://www.youtube.com/watch?v=AtcdmVHka1U</id>
+        <link href="https://www.youtube.com/watch?v=AtcdmVHka1U"/>
+        <updated>2025-06-09T23:34:36.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
 </feed>
