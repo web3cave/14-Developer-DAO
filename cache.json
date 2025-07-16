@@ -4,7 +4,18 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QV0y_FAN9ZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QV0y_FAN9ZY",
+          "publishedOn": "2025-07-15T17:40:19.000Z",
+          "wordCount": null,
+          "title": "Mastering Claude Code - 11 Tips in 4 Minutes for Vibe Coding Excellence",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
