@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T06:22:38.462Z</id>
+    <id>urn:2025-08-14T06:22:26.551Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-13T06:22:38.462Z</updated>
+    <updated>2025-08-14T06:22:26.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Mastering Claude Code - 11 Tips in 4 Minutes for Vibe Coding Excellence]]></title>
-        <id>https://www.youtube.com/watch?v=QV0y_FAN9ZY</id>
-        <link href="https://www.youtube.com/watch?v=QV0y_FAN9ZY"/>
-        <updated>2025-07-15T17:40:19.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
 </feed>
