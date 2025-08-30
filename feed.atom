@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-29T06:20:29.590Z</id>
+    <id>urn:2025-08-30T06:17:43.405Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-29T06:20:29.590Z</updated>
+    <updated>2025-08-30T06:17:43.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build Multi-Agent AI Systems with Google's A2A Protocol - Complete Guide with TypeScript]]></title>
+        <id>https://www.youtube.com/watch?v=EVg6g7fy4qE</id>
+        <link href="https://www.youtube.com/watch?v=EVg6g7fy4qE"/>
+        <updated>2025-08-29T14:33:27.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
 </feed>
