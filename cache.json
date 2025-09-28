@@ -14,16 +14,6 @@
           "wordCount": null,
           "title": "LLM Gateway - the Open Source Alternative of OpenRouter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EVg6g7fy4qE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EVg6g7fy4qE",
-          "publishedOn": "2025-08-29T14:33:27.000Z",
-          "wordCount": null,
-          "title": "Build Multi-Agent AI Systems with Google's A2A Protocol - Complete Guide with TypeScript",
-          "imageUrl": null
         }
       ]
     }
