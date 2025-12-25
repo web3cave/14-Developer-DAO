@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TCZL1o57Gs0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TCZL1o57Gs0",
-          "publishedOn": "2025-11-28T16:07:07.000Z",
-          "wordCount": null,
-          "title": "Verifiable Rate Hedging with Nunchi and EigenCloud",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
