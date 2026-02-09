@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=vg2Qt-RYrUM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vg2Qt-RYrUM",
-          "publishedOn": "2026-01-19T03:45:12.000Z",
-          "wordCount": null,
-          "title": "How to Build an Effective Long Running Coding Agent Loop in 7 minutes.",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
