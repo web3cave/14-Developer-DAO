@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
-          "publishedOn": "2026-08-10T20:43:16.000Z",
-          "wordCount": null,
-          "title": "How to Clone any Design System in the World in 5 Minutes with the Figma MCP",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
