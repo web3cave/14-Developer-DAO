@@ -1,4 +1,32 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "author": null,
+          "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
+          "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "publishedOn": "2026-08-20T23:12:36.000Z",
+          "wordCount": 3604,
+          "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
+          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLDd1kSt-gMnxFWv46TAlHWxTDLgFQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "publishedOn": "2026-08-10T20:43:16.000Z",
+          "wordCount": null,
+          "title": "How to Clone any Design System in the World in 5 Minutes with the Figma MCP",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
